@@ -21,7 +21,11 @@ less /home/admin/access.log
 ```
 ![Pasted image 20240815212040.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240815212040.png)
 
-There is a lot of information in that file.  If we count the number of lines in that file using `wc -l /home/admin/access.log`
+There is a lot of information in that file.  If we count the number of lines in that file using:
+
+```bash
+wc -l /home/admin/access.log
+```
 ![Pasted image 20240815212223.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240815212223.png)
 
 First, we filter all the IPs with `grep` ( `-E`nhanced and exact match `o` options) and a RegEx pattern.
@@ -45,7 +49,7 @@ now, we want to know which is the most recurrent IP address, so we sort again nu
 ```bash 
 grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" /home/admin/access.log | sort | uniq -c | sort -n`
 ```
-![Pasted image 20240815214525.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240815214525.png)
+![[Pasted image 20240815214525.png \| center]]
 
 As we can see, the most recurring IP address is ___66.249.73.135___ with 482 requests.
 
