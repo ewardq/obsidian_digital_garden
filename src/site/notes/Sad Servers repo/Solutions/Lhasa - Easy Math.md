@@ -4,7 +4,7 @@
 
 
 # "Lhasa": Easy Math
-**Level:** Easy
+**Type:** Do
 **Description:** There's a file _/home/admin/scores.txt_ with two columns (imagine the first number is a counter and the second one is a test score for example).  
   
 Find the average (more precisely; the arithmetic mean: sum of numbers divided by how many numbers are there) of the numbers in the second column (find the average score).  
@@ -61,7 +61,6 @@ or, since we are given a numbered list, we can also use the last line of the fir
 cat /home/admin/scores.txt | cut --delimiter " " --fields 1 | tail -n 1
 ```
 ![Pasted image 20240817180053.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240817180053.png)
-
 
 To get the average, well use the command `bc` with a precision of 2 decimals (`scale=2`) and configured so it uses a float format (`-l`).
 
