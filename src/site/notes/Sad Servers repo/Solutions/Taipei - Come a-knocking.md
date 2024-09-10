@@ -22,7 +22,9 @@ If we try to connect to the default HTTP port, we get an error:
 
 First, we scan for **open ports** in the server so we can start making all the possible combinations that might led to the opening of the port 80 using `nmap`.
 
-`nmap localhost`
+```bash
+nmap localhost
+```
 ![Pasted image 20240829165630.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240829165630.png)
 where we find that there are only two ports listening at the moment. We can discard the port used to establish an _ssh connection_, so the only other port available is 8080.
 
@@ -33,10 +35,14 @@ We can also see that the **http port (80) is now open**.
 
 Therefore, we can now make a request to the server.
 
-`curl localhost`
+```bash
+curl localhost
+```
 ![Pasted image 20240829170357.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240829170357.png)
 
-`echo $(curl localhost)`
+```bash
+echo $(curl localhost)
+```
 ![Pasted image 20240829170539.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240829170539.png)
 
 ___Success!___
@@ -44,6 +50,8 @@ ___Success!___
 ### Sad Servers' solution
 One other option is to knock in every single opened port to try and guess the correct sequence. This works only because we knew from the get-go that the secret knock consisted in knocking only one port.
 
-`nmap -PS localhost`
+```bash
+nmap -PS localhost
+```
 ![Pasted image 20240829171311.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240829171311.png)
 where the `-PS` (TCP SYN Ping) option makes the command ping all found ports.
