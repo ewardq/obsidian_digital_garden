@@ -12,6 +12,7 @@ Here I'm archiving my solutions to the https://sadservers.com/ Linux SRE/DevOps 
 [[Sad Servers repo/Solutions/Lhasa - Easy Math\|Lhasa - Easy Math]]
 [[Sad Servers repo/Solutions/Taipei - Come a-knocking\|Taipei - Come a-knocking]]
 [[Sad Servers repo/Solutions/Apia - Needle in a Haystack\|Apia - Needle in a Haystack]]
+[[Sad Servers repo/Solutions/Minneapolis - Break a CSV file\|Minneapolis - Break a CSV file]]
 
 Medium
 [[Sad Servers repo/Solutions/Tokyo - Can't serve web file\|Tokyo - Can't serve web file]]

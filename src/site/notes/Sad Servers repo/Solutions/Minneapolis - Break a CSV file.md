@@ -21,7 +21,7 @@ First, let's find where is the file that will be processed.
 ```bash
 ls /home/admin/
 ```
-![Pasted image 20240910113847.png](/img/user/Pasted%20image%2020240910113847.png)
+![Pasted image 20240910113847.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240910113847.png)
 And because the current directory is the target directory, it's not necessary to change anything on that regard.
 
 To split the file into 10 pieces, the `split` command is a built-in Linux command that offers almost all necessary features to solve the scenario.
@@ -39,7 +39,7 @@ Now there are 10 newly created files based on the original _data.csv_ file.
 ```bash
 ls
 ```
-![Pasted image 20240910114138.png](/img/user/Pasted%20image%2020240910114138.png)
+![Pasted image 20240910114138.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240910114138.png)
 
 But only the _data-00.csv_ has the original file's headers. To fix this, select all the created files except the first one, add the first line of the _data-00.csv_ plus the rest of each file and save them.
 
@@ -50,7 +50,7 @@ done
 ```
 
 Now, all the files have the original file's header.
-![Pasted image 20240910114836.png](/img/user/Pasted%20image%2020240910114836.png)
+![Pasted image 20240910114836.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240910114836.png)
 
 ___Success!___
 
