@@ -3,7 +3,7 @@
 ---
 
 
-**Scenario:** "Tokyo": can't serve web file
+# "Tokyo": can't serve web file
 **Level:** Medium
 **Type:** Fix
 **Tags:** [apache](https://sadservers.com/tag/apache)   [realistic-interviews](https://sadservers.com/tag/realistic-interviews)  

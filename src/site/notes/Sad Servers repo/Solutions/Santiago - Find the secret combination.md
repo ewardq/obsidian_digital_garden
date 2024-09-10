@@ -3,7 +3,7 @@
 ---
 
 
-**Scenario:** "Santiago": Find the secret combination
+# "Santiago": Find the secret combination
 **Level:** Easy
 **Type:** Do
 **Tags:** [bash](https://sadservers.com/tag/bash)  
