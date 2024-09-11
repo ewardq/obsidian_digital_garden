@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-data-is-stored/"}
 ---
 
-# Where Data is Stored
+---
 For an operating system, everything is considered data. For Linux, _everything is considered a file_: 
 - Programs
 - Regular files

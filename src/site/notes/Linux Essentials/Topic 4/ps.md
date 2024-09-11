@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/ps/"}
 ---
 
-# ps
+---
 _ps_ gives a snapshot of processes. Sot it is static and does not update unless it's called again.
 
 ![Pasted image 20240818135207.png](/img/user/Linux%20Essentials/Topic%204/Topic4%20reference%20images/Pasted%20image%2020240818135207.png)

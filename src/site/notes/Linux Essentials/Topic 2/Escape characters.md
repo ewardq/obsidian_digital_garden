@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/escape-characters/"}
 ---
 
-# Escape characters
+---
 We can use _escape characters_ to remove special meaning of characters from Bash. Like in the following example:
 
 ```shell

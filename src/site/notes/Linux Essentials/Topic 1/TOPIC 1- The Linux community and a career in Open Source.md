@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/topic-1-the-linux-community-and-a-career-in-open-source/"}
 ---
 
-# TOPIC 1- The Linux community and a career in Open Source
+---
 ___Linux is free as in free speech, not free beer.__ Linux es software libre.
 
 1.1 [[Linux Essentials/Topic 1/Linux evolution\|Linux evolution]] and [[Linux Essentials/Topic 1/Popular Operating Systems\|Popular Operating Systems]]

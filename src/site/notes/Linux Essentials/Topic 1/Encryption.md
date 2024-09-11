@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/encryption/"}
 ---
 
-# Encryption
+---
 Whenever data is transferred or stored, **precautions need to be taken to ensure that third parties may not access the data**. Data transferred over the internet passes by a series of routers and networks where third parties might be able to access the network traffic. Likewise, data stored on physical media might be read by anyone who comes into possession of that media. To avoid this kind of access, confidential information should be encrypted before it leaves a computing device.
 
 [[TLS (Transport Layer Security)\|TLS (Transport Layer Security)]]: Successor of [[SSL (Secure Sockets Layer)\|SSL (Secure Sockets Layer)]], it allows to encrypt the communication of protocols, web, email, etc.

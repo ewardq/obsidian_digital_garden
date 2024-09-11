@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/digital-garden/lpi-s-linux-essentials-certification/"}
 ---
 
-# Road to obtain the Linux Professional Institute's (LPI) Linux Essentials Certification
 ---
 Here I store all the notes I took in order to take the [Linux Professional Institute (LPI)](https://www.lpi.org/)
 Linux Essentials Certification. Feel free to look around and see if you find something useful for you!

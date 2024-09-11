@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/pgrep/"}
 ---
 
-# pgrep
+---
 **pgrep** looks through the currently running processes and lists the process IDs which match the selection criteria to _stdout_.  All he criteria have to match.  For example,
 
 `$ pgrep -u root sshd`

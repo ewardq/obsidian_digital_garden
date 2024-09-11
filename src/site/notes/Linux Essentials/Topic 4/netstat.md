@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/netstat/"}
 ---
 
-# netstat
+---
 **Netstat** prints information about the Linux networking subsystem. Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.
 	From man page
 

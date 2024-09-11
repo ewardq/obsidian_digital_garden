@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-header-fields/"}
 ---
 
-# HTTP Header Fields
+---
 With each request and response, you have something called a _header_ and a _body_.
 
 ![Pasted image 20240820015639.png](/img/user/Linux%20Essentials/Topic%204/Topic4%20reference%20images/Pasted%20image%2020240820015639.png)

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/partitions/"}
 ---
 
-# Partitions
+---
 A partition is a division in the hard drive space. It is effectively a long sequence of storage locations. Each partition is treated as if it is an individual device.
 
 ### But why would I need multiple partitions?

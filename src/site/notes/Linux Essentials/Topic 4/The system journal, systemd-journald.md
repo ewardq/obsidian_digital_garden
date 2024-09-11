@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-system-journal-systemd-journald/"}
 ---
 
-# The system journal, systemd-journald
+---
 As of 2015, _systemd_ replaced SysV Init as a de facto system and service manager in most major Linux distributions. As a consequence, the journal daemon _journald_ has become the standard logging component, superseding syslog in most aspects. Thus, the `journalctl` utility is necessary to read the logs.
 
 `journalctl` is used to read and query systemd's journal database.

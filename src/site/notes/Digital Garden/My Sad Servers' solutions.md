@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/my-sad-servers-solutions/"}
 ---
 
-
+---
 Here I'm archiving my solutions to the https://sadservers.com/ Linux SRE/DevOps list of scenarios.
 
 [[Sad Servers repo/Solutions/Saint John - What is writing to this log file\|Saint John - What is writing to this log file]]

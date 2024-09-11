@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/choosing-an-operating-system/"}
 ---
 
-# Choosing an Operating System
+---
 Main Operating Systems
 _Linux:_
 	**For desktop**: Ubuntu, Mint, deepin, etc.

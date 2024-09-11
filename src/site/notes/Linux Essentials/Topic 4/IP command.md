@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/ip-command/"}
 ---
 
-# ifconfig
+---
 Show / manipulate routing, devices, policy routing and tunnels.
 
 The `IP` command englobes a lot of functionalities from now obsolete network managing commands. Some of them are:

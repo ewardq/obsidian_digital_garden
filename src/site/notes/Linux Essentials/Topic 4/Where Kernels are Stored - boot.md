@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-kernels-are-stored-boot/"}
 ---
 
-# Where Kernels are Stored - boot
+---
 The kernel resides in _/boot_, together with other boot-related files. Most of there include the kernel version, major version, minor revision and patch number.
 
 _initrd.img-version_kernel_: Image that loads in RAM to boot the system.

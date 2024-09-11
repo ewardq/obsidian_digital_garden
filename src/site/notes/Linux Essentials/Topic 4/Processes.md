@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/processes/"}
 ---
 
-# Processes
+---
 Here are some commands to analyze processes. 
 
 - [[Linux Essentials/Topic 4/ps\|ps]]: Shows information about the executing processes as a snapshot.

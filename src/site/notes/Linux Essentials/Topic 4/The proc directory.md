@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-proc-directory/"}
 ---
 
-# The proc directory
+---
 The _/proc_ directory is one of the so-called virtual or pseudo filesystems since its contents are not written to disk, but loaded in memory. _/proc_ includes information about:
 - Running processes
 - Kernel configuration

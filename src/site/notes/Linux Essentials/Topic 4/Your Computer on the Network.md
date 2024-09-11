@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/your-computer-on-the-network/"}
 ---
 
-# Your Computer on the Network
+---
 The concept of computer networks are the physical connections between two different devices. _Links_ can be established through various media, such as copper cables, optical fibers, radio waves or lasers.
 
 Each link is connected with an interface of a device. Each device can have multiple interfaces and thus be connected to multiple links. Through these computers can form a _network_; a small community of devices that can directly connect to each other.

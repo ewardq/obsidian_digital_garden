@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-5/topic-5-security-and-file-permissions/"}
 ---
 
-# TOPIC 5- Security and File permissions
+---
 A Linux server is usually has a lot of users, so it is important to manage who can access which files and what can he do.
 
 5.1 [[Linux Essentials/Topic 5/Basic Security and Identifying User Types\|Basic Security and Identifying User Types]]

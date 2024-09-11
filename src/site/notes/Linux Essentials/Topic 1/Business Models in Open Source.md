@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/business-models-in-open-source/"}
 ---
 
-
-# Business Models in Open Source
+---
 How to make money with _FLOSS_?
 
 - Installation, support and personalization.

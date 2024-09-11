@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/programming-languages/"}
 ---
 
-# Programming Languages
+---
 Programming languages are the rules that make the web and it's components possible; each one was created with an intended purpose, therefore, each one has its advantages and pitfalls.  
 
 Here are some of the most popular programming languages when talking about web servers and Linux environments:

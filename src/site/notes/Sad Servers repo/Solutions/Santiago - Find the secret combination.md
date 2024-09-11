@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/sad-servers-repo/solutions/santiago-find-the-secret-combination/"}
 ---
 
-
-# "Santiago": Find the secret combination
+---
 **Type:** Do
 **Description:** Alice the spy has hidden a secret number combination, find it using these instructions:  
   

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/free-software/"}
 ---
 
-# Free Software
+---
 For a software to be ___free___ it must comply with the following liberties:
 
 > _Freedom 0_

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/topic-2-finding-your-way-on-a-linux-system/"}
 ---
 
-# TOPIC 2 - Finding your way on a Linux system
+---
 2.1 [[Linux Essentials/Topic 2/Command Line Basics\|Command Line Basics]]
 	2.1.1 [[Linux Essentials/Topic 2/Command Line Structure\|Command Line Structure]]
 	2.1.2 [[Linux Essentials/Topic 2/Command Behavior Types\|Command Behavior Types]]

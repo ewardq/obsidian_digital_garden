@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/command-behavior-types/"}
 ---
 
-# Command Behavior Types
-
+---
 - The command ___type___ can tell us **if a command is an external or internal one**.
 - The command ___which___ can tell us the **absolute route of a program.**
 - The command ___uname -a___ shows information about the OS.

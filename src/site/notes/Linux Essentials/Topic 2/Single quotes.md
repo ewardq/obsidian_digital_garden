@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/single-quotes/"}
 ---
 
-# Single quotes
+---
 Single quotes don't have the exceptions of the double quotes. They revoke any special meaning from each character. 
 
 For instance, the command

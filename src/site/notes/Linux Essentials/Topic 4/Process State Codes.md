@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/process-state-codes/"}
 ---
 
-# Process State Codes
+---
 
 | Code | Description                                                           |
 | ---- | --------------------------------------------------------------------- |

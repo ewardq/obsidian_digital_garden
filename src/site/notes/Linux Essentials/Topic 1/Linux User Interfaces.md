@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/linux-user-interfaces/"}
 ---
 
-# Linux User Interfaces
+---
 When using a Linux system, you either interact with a command line or with a graphical user interfaces. Both ways grant you access to numerous applications that support performing almost any task with the computer.
 
 _Desktop environments_:

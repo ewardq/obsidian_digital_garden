@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/multimedia/"}
 ---
 
-# Multimedia
+---
 There are distributions dedicated to multimedia production, such as _Ubuntu Studio_. Some of the most known apps are:
 
 _GIMP_: full feature image editor, comparable to Photoshop.

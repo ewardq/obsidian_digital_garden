@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/distributions/"}
 ---
 
-# Distributions
+---
 A **distribution** is a Operating System created with the Linux kernel and a selection of application software maintained by a community or a company.
 
 A graph of the many dist. variants and its origins can be seen here:

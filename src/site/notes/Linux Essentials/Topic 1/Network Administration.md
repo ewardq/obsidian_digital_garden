@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/network-administration/"}
 ---
 
-# Network Administration
+---
 Communication between computers is only possible if the network is working correctly.  This network configuration is usually done by a set of programs running on the router, _responsible for setting up and checking the network availability_. 
 
 To achieve this, two basic network services are used:

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/configuration-files-in-home/"}
 ---
 
-# Configuration Files in HOME
+---
 _.bash_history_: It stores the command line history.
 
 _.bash_logout_: It includes commands to execute when leaving the login shell.

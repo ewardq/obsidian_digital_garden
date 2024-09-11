@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/variables/"}
 ---
 
-# Variables
+---
 Variables are pieces of storage for data, such as text or numbers. Once set, a variable’s value can be accessed at a later time. Variables have a name which allows accessing a specific variable, even when the variable’s content changes. They are a very common tool in most programming languages.
 
 In most Linux shells, there are two types of variables:

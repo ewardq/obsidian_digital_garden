@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saint-john-what-is-writing-to-this-log-file/"}
 ---
 
-
-# "Saint John": what is writing to this log file?
+---
 **Type:** Fix
 **Description:** A developer created a testing program that is continuously writing to a log file _/var/log/bad.log_ and filling up disk. You can check for example with `tail -f /var/log/bad.log`.  
 This program is no longer needed. Find it and terminate it.

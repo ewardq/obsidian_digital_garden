@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-configuration-files-are-stored/"}
 ---
 
-# Where Configuration Files are Stored
+---
 The _/etc_ directory was created as a catch-all directory to store any files that did not belong in the other categories (binaries _/bin_, kernel's boot _boot_, etc.). Most of these files were **configuration files**.
 
 A configuration file usually is a local, plain text (as opposed to binary) file which **controls the operation of a program**.

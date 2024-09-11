@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/command-line-structure/"}
 ---
 
-# Command Line Structure
+---
 Most commands at the command line follow the same basic structure:
 
 > [!Command line basic structure]

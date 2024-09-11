@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/topic-4-the-linux-operating-system/"}
 ---
 
-# TOPIC 4- The Linux operating system
+---
 
 4.1 [[Linux Essentials/Topic 4/Choosing an Operating System\|Choosing an Operating System]]
 	4.1.1 What is an Operating System

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/software-packages/"}
 ---
 
-# Software Packages
+---
 Besides the pre-installed set of default applications each Linux distribution offers, it also has a package repository with a vast collection of applications available to install through its _package manager._
 
 ### **.deb** packages

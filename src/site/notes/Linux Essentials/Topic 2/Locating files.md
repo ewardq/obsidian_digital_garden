@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/locating-files/"}
 ---
 
-# Locating files
+---
 You can use the local database to locate elements in the disk using the command `locate`, this database automatically updates but it can be manually updated with **updatedb**.
 
 ```bash

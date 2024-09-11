@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/server-programs/"}
 ---
 
-# Server Programs
+---
 >When a web browser loads a page from a website, it actually connects to a remote computer and asks for a specific piece of information. In that scenario, the computer running the web browser is called the _client_ and the remote computer is called the _server_.
 - _From the LPI Learning Material 010 - 160_
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-kernel-ring-buffer/"}
 ---
 
-# The Kernel Ring Buffer
+---
 The kernel ring buffer is a fixed-size data structure that records kernel boot messages as well as any live kernel messages. The function of this buffer is that of **logging all the kernel messages produced on boot** when `syslog` is not yet available.
 
 The `dmesg` command prints the kernel ring buffer (which used to be also stored in `/var/log/dmesg`).

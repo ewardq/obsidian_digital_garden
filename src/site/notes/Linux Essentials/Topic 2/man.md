@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/man/"}
 ---
 
-# man
+---
 Most commands provide a manual page or “man” page. This documentation is usually installed with the software and can be accessed with the man command. 
 
 ```bash

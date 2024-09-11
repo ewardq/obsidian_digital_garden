@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saskatoon-counting-ips/"}
 ---
 
-
-# "Saskatoon": counting IPs.
+---
 **Type:** Do
 **Description:** There's a web server access log file at 
 _/home/admin/access.log_. The file consists of one line per HTTP request, with the requester's IP address at the beginning of each line.  

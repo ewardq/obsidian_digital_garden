@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/basic-network-troubleshooting/"}
 ---
 
-# Basic network troubleshooting
+---
 [[Linux Essentials/Topic 4/tracepath - tracepath6\|tracepath - tracepath6]]: Shows the path followed to the endpoint.
 
 [[Linux Essentials/Topic 4/traceroute - traceroute6\|traceroute - traceroute6]]: Similar to _tracepath_ but with more options. Might require root privileges.

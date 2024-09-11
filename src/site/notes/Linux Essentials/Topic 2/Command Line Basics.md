@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/command-line-basics/"}
 ---
 
-# Command Line Basics
+---
 There are several different shells on Linux, these are just a few:
 - Bourne-again shell ([[Bash\|Bash]])
 - C shell (csh or tcsh, the enhanced csh)

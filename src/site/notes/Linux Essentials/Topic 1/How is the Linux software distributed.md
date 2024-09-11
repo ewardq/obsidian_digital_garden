@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/how-is-the-linux-software-distributed/"}
 ---
 
-# How is the Linux software distributed
+---
 There are two main ways that Linux distributes software:
 
 _Via source code_: where you can get your software from [[Linux Essentials/Topic 1/repositories\|repositories]] in a human-readable form to modify and thinker with.

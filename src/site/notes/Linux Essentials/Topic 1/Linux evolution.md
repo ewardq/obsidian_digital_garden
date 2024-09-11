@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/linux-evolution/"}
 ---
 
-# Linux evolution
+---
 Linux development was started in _1991_ by Linus Torvalds, inspired by UNIX (Developed by AT&T in the 1970s). 
 
 In _1992_, it adopts the General Public License (GPL) allowing the use, modification, copy and redistribution of the OS. This kickstarted the [[Linux community.\|Linux community.]]

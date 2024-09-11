@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-binary-files-are-stored/"}
 ---
 
-# Where Binary Files are stored
+---
 Executable files live in directories hanging ultimately from _/_. More specifically, programs are distributed across a three-tier structure: the first tier _/_ includes programs that can be necessary in single-user mode, the second tier _/user_ contains most multi-super programs and the third tier _/usr/local_ is used to store software that is not provided by the distribution and has been compiled locally.
 
 _/sbin_ It contains essential binaries for system administration such as `parted` or `ip`.

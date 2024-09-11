@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/http/"}
 ---
 
-# HTTP
+---
 **H**yper **T**ext **T**ransfer **P**rotocol
 
 It is responsible for 

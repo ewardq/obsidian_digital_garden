@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-5/basic-security-and-identifying-user-types/"}
 ---
 
-# Basic Security and Identifying User Types
+---
 Use `su [USER]` to change between users.
 
 Use `ls -l` to see which permissions are present in the current files.

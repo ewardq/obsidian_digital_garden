@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/tracepath-tracepath6/"}
 ---
 
-# tracepath - tracepath6
+---
 It traces path to _destination_ discovering MTU along this path. It uses UDP port _port_ or some random port. It is similar to **traceroute**, only does not not require superuser privileges and has no fancy options.
 
 ![Pasted image 20240819182501.png](/img/user/Linux%20Essentials/Topic%204/Topic4%20reference%20images/Pasted%20image%2020240819182501.png)

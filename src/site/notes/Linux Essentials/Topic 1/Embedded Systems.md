@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-1/embedded-systems/"}
 ---
 
-# Embedded Systems
+---
 Embedded systems are a combination of computer hardware and software designed to have a specific within a larger system.
 
 A good example is [[Android\|Android]], developed by Google and found in thousands of devices around the world.

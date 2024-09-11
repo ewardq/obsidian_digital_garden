@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-2/double-quotes/"}
 ---
 
-# Double quotes
+---
 Double quotes tell the shell to take the text in between the quote marks _" "_ as regular characters. All special characters lose their meaning, except the ___$ (dollar sign)___, ___\ (backslash)___, and ___\` (backquote)___.
 
 As an example, the command

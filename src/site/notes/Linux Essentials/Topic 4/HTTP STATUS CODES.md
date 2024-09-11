@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-status-codes/"}
 ---
 
-# HTTP STATUS CODES
+---
 _1xx: Informational_ - Request received / processing.
 
 _2xx: Success_ - Successfully Received, understood and accepted.
