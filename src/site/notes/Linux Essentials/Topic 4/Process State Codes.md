@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/process-state-codes/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/process-state-codes/","noteIcon":""}
 ---
 
 ---

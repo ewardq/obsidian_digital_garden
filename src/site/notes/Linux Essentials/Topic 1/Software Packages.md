@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/software-packages/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/software-packages/","noteIcon":""}
 ---
 
 ---

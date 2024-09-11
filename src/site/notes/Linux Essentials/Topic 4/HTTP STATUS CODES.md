@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-status-codes/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-status-codes/","noteIcon":""}
 ---
 
 ---

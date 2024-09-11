@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/configuration-files-in-home/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/configuration-files-in-home/","noteIcon":""}
 ---
 
 ---

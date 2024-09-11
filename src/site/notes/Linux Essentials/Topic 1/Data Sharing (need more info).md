@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/data-sharing-need-more-info/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/data-sharing-need-more-info/","noteIcon":""}
 ---
 
 ---

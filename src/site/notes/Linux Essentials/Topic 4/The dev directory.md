@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-dev-directory/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-dev-directory/","noteIcon":""}
 ---
 
 ---

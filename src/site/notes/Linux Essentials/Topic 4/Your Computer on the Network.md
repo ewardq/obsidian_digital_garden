@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/your-computer-on-the-network/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/your-computer-on-the-network/","noteIcon":""}
 ---
 
 ---

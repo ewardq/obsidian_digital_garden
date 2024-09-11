@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/double-quotes/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/double-quotes/","noteIcon":""}
 ---
 
 ---

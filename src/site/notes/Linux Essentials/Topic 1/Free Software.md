@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/free-software/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/free-software/","noteIcon":""}
 ---
 
 ---

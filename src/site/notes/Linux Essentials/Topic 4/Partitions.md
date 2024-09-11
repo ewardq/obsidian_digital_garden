@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/partitions/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/partitions/","noteIcon":""}
 ---
 
 ---

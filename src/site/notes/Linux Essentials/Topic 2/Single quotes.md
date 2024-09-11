@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/single-quotes/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/single-quotes/","noteIcon":""}
 ---
 
 ---

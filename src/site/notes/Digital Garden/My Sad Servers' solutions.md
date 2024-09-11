@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/my-sad-servers-solutions/"}
+{"dg-publish":true,"permalink":"/digital-garden/my-sad-servers-solutions/","noteIcon":"2"}
 ---
 
 ---

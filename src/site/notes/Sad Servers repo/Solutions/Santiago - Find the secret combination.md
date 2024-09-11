@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/santiago-find-the-secret-combination/"}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/santiago-find-the-secret-combination/","noteIcon":""}
 ---
 
 ---

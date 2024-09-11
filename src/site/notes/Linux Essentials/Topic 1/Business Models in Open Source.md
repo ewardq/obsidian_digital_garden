@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/business-models-in-open-source/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/business-models-in-open-source/","noteIcon":""}
 ---
 
 ---

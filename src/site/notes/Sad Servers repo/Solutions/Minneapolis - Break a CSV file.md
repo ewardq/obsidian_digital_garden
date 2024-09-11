@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/minneapolis-break-a-csv-file/"}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/minneapolis-break-a-csv-file/","noteIcon":""}
 ---
 
 ---

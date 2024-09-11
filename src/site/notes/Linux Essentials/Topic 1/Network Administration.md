@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/network-administration/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/network-administration/","noteIcon":""}
 ---
 
 ---

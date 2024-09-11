@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/programming-languages/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/programming-languages/","noteIcon":""}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-header-fields/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-header-fields/","noteIcon":""}
 ---
 
 ---
