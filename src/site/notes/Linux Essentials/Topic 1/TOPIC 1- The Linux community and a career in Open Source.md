@@ -6,7 +6,7 @@
 ___Linux is free as in free speech, not free beer.___ Linux es software libre.
 
 1.1 [[Linux Essentials/Topic 1/Linux evolution\|Linux evolution]] and [[Linux Essentials/Topic 1/Popular Operating Systems\|Popular Operating Systems]]
-	1.1.1 [[Linux Essentials/Topic 1/Distributions\|Distributions]]
+1.1.1 [[Linux Essentials/Topic 1/Distributions\|Distributions]]
 	1.1.2 [[Linux Essentials/Topic 1/Embedded Systems\|Embedded Systems]]
 	1.1.3 [[Linux Essentials/Topic 1/Linux and the Cloud\|Linux and the Cloud]]
 1.2 Major Open Source Applications

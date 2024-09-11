@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/topic-4-the-linux-operating-system/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/topic-4-the-linux-operating-system/","pinned":"true"}
 ---
 
 ---
