@@ -26,3 +26,4 @@
 	2.3.9 The Long List Option
 	2.3.10 Additional ls Options
 	2.3.11 Recursion in Bash
+[[Linux Essentials/Topic 2/Types of commands\|Types of commands]]

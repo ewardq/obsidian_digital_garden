@@ -8,5 +8,5 @@ Hi, I'm Eduardo and this is my personal archive of notes and solutions that I'm 
 
 [[Digital Garden/My Sad Servers' solutions\|My Sad Servers' solutions]]
 
-[[Digital Garden/Road to obtain the Linux Professional Institute's Linux Essentials Certification\|Road to obtain the Linux Professional Institute's Linux Essentials Certification]]
+[[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]
 
