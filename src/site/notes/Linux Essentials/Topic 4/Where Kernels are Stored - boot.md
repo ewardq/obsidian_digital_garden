@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-kernels-are-stored-boot/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-kernels-are-stored-boot/","noteIcon":"1"}
 ---
 
 ---

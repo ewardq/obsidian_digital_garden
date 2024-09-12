@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/linux-user-interfaces/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/linux-user-interfaces/","noteIcon":"1"}
 ---
 
 ---

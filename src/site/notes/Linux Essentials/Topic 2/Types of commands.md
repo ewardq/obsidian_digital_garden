@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/types-of-commands/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/types-of-commands/","noteIcon":"1"}
 ---
 

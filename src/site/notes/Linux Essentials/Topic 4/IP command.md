@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ip-command/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ip-command/","noteIcon":"1"}
 ---
 
 ---

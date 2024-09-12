@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-binary-files-are-stored/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/where-binary-files-are-stored/","noteIcon":"1"}
 ---
 
 ---

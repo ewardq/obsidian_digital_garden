@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-methods/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http-methods/","noteIcon":"1"}
 ---
 
 ---

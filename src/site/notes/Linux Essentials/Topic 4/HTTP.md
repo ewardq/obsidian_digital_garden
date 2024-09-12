@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/http/","noteIcon":"1"}
 ---
 
 ---

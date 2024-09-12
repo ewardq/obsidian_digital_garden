@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/tracepath-tracepath6/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/tracepath-tracepath6/","noteIcon":"1"}
 ---
 
 ---

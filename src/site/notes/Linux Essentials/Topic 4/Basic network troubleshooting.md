@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/basic-network-troubleshooting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/basic-network-troubleshooting/","noteIcon":"1"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/privacy-issues-when-using-the-internet/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/privacy-issues-when-using-the-internet/","noteIcon":"1"}
 ---
 
 ---

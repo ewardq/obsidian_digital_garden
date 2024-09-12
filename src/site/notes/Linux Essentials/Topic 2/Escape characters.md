@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/escape-characters/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/escape-characters/","noteIcon":"1"}
 ---
 
 ---

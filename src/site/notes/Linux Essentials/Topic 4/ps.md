@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ps/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ps/","noteIcon":"1"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/open-software/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/open-software/","noteIcon":"1"}
 ---
 
 ---

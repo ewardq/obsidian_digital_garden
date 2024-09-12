@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ifconfig/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ifconfig/","noteIcon":"1"}
 ---
 
 ---

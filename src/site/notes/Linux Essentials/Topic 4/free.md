@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/free/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/free/","noteIcon":"1"}
 ---
 
 ---

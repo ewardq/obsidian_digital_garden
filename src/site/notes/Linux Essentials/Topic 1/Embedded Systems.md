@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/embedded-systems/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/embedded-systems/","noteIcon":"1"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-kernel-ring-buffer/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-kernel-ring-buffer/","noteIcon":"1"}
 ---
 
 ---

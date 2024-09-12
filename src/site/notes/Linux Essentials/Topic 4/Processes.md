@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/processes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/processes/","noteIcon":"1"}
 ---
 
 ---

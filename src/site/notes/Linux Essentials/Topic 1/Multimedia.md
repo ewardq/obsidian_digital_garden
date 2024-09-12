@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/multimedia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/multimedia/","noteIcon":"1"}
 ---
 
 ---

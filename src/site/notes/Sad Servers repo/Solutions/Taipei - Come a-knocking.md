@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/taipei-come-a-knocking/","noteIcon":""}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/taipei-come-a-knocking/","noteIcon":"1"}
 ---
 
 ---

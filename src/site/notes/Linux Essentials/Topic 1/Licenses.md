@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/licenses/","noteIcon":""}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/licenses/","noteIcon":"1"}
 ---
 
 ---

@@ -6,7 +6,9 @@
 ---
 Hi, I'm Eduardo and this is my personal archive of notes and solutions that I'm constantly updating while I learn more about Linux, Embedded Systems, Operating Systems, the Cloud and more (:
 
-[[Digital Garden/My Sad Servers' solutions\|My Sad Servers' solutions]]
+![SadServers-icon-2.png|200](/img/user/SadServers-icon-2.png)
+- [[Digital Garden/Sad Server's Linux challenges\|Sad Server's Linux challenges]]
 
-[[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]
+- [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]
+
 
