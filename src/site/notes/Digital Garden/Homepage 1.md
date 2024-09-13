@@ -5,6 +5,6 @@
 ![[SadServers-icon-2.png \|200]]
 
 ---
-[![Homepage](/img/user/Digital Garden/Icons-and-images/SadServers-icon-2.png)](Images/test.jpg)
+[![Homepage](/img/user/<Digital Garden>/Icons-and-images/SadServers-icon-2.png)](Images/test.jpg)
 
 [[Digital Garden/Homepage\|Homepage]]
