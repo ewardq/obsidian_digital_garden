@@ -7,3 +7,7 @@
 
 [![SadServers-icon-2.png|200](/img/user/Digital Garden/Icons-and-images/SadServers-icon-2.png)](Homepage)
 [[Digital Garden/Homepage\|Homepage]]
+
+# Header 1
+## Header 2
+### Header 3
