@@ -21,8 +21,8 @@ ___Linux is free as in free speech, not free beer.___ Linux es software libre.
 -  [[Linux Essentials/Topic 1/Data Sharing (need more info)\|Data Sharing (need more info)]]
 -  [[Linux Essentials/Topic 1/Network Administration\|Network Administration]]
 -  [[Linux Essentials/Topic 1/Programming Languages\|Programming Languages]]
-	- [ ] [[Guided exercises 1.2\|Guided exercises 1.2]]
-	- [ ] [[Explorational exercises 1.2\|Explorational exercises 1.2]]
+	- [ ] [[Linux Essentials/Topic 1/Guided exercises 1.2\|Guided exercises 1.2]]
+	- [ ] [[Linux Essentials/Topic 1/Explorational exercises 1.2\|Explorational exercises 1.2]]
 ### 1.3 Open Source and Licensing
 -  Definition of [[Linux Essentials/Topic 1/Free Software\|Free Software]]
 	-  Definition of [[Linux Essentials/Topic 1/Open Software\|Open Software]]
