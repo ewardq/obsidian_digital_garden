@@ -22,7 +22,7 @@
 - Files and Directories
 - File and Directory Names
 - Navigating the Filesystem
-- Absolute and Relative Paths
+- [[Linux Essentials/Topic 2/Absolute and Relative Paths\|Absolute and Relative Paths]]
 	///
 - Home Directories
 - The Special Relative Path for Home
@@ -47,3 +47,10 @@
 	- [ ] [[Explorational exercises 2.4\|Explorational exercises 2.4]]
 
 [[Linux Essentials/Topic 2/Types of commands\|Types of commands]]
+[[Linux Essentials/Topic 2/man\|man]]
+[[Linux Essentials/Topic 2/Command Types\|Command Types]]
+[[Linux Essentials/Topic 2/cp\|cp]]
+[[Linux Essentials/Topic 2/mkdir\|mkdir]]
+[[Linux Essentials/Topic 2/tree\|tree]]
+[[Linux Essentials/Topic 2/Command Types\|Command Types]]
+[[Linux Essentials/Topic 2/Managing files\|Managing files]]
