@@ -3,27 +3,47 @@
 ---
 
 ---
-2.1 [[Linux Essentials/Topic 2/Command Line Basics\|Command Line Basics]]
-	2.1.1 [[Linux Essentials/Topic 2/Command Line Structure\|Command Line Structure]]
-	2.1.2 [[Linux Essentials/Topic 2/Command Behavior Types\|Command Behavior Types]]
-	2.1.3 [[Linux Essentials/Topic 2/Quoting\|Quoting]]
+
+#### 2.1 [[Linux Essentials/Topic 2/Command Line Basics\|Command Line Basics]]
+-  [[Linux Essentials/Topic 2/Command Line Structure\|Command Line Structure]]
+- [[Linux Essentials/Topic 2/Command Behavior Types\|Command Behavior Types]]
+- [[Linux Essentials/Topic 2/Quoting\|Quoting]]
+///
+- [[Linux Essentials/Topic 2/Variables\|Variables]]
+- Manipulating Exercises
+	- [ ] [[Guided exercises 2.1\|Guided exercises 2.1]]
+	- [ ] [[Explorational exercises 2.1\|Explorational exercises 2.1]]
+#### 2.2 Using the Command Line to Get Help
+-  [[Linux Essentials/Topic 2/Getting Help on the Command Line\|Getting Help on the Command Line]]
+-  [[Linux Essentials/Topic 2/Locating files\|Locating files]]
+	- [ ] [[Guided exercises 2.2\|Guided exercises 2.2]]
+	- [ ] [[Explorational exercises 2.2\|Explorational exercises 2.2]]
+#### 2.3 Using Directories and Listing Files
+- Files and Directories
+- File and Directory Names
+- Navigating the Filesystem
+- Absolute and Relative Paths
 	///
-	2.1.4 [[Linux Essentials/Topic 2/Variables\|Variables]]
-	2.1.5 Manipulating Exercises
-2.2 Using the Command Line to Get Help
-	2.2.1 [[Linux Essentials/Topic 2/Getting Help on the Command Line\|Getting Help on the Command Line]]
-	2.2.2 [[Linux Essentials/Topic 2/Locating files\|Locating files]]
-2.3 Using Directories and Listing Files
-	2.3.1 Files and Directories
-	2.3.2 File and Directory Names
-	2.3.3 Navigating the Filesystem
-	2.3.4 Absolute and Relative Paths
-	///
-	2.3.5  Home Directories
-	2.3.6 The Special Relative Path for Home
-	2.3.7 Relative-to-Home File Paths
-	2.3.8 Hidden Files and Directories
-	2.3.9 The Long List Option
-	2.3.10 Additional ls Options
-	2.3.11 Recursion in Bash
+- Home Directories
+- The Special Relative Path for Home
+- Relative-to-Home File Paths
+- Hidden Files and Directories
+- The Long List Option
+- Additional ls Options
+- Recursion in Bash
+	- [ ] [[Guided exercises 2.3\|Guided exercises 2.3]]
+	- [ ] [[Explorational exercises 2.3\|Explorational exercises 2.3]]
+
+#### 2.4 Creating, Moving and Deleting Files
+- Case Sensitivity
+- Creating Directories
+- Creating Files
+- Renaming Files
+- Moving Files
+- Deleting Files and Directories
+- Copying Files and Directories
+- Globbing
+	- [ ] [[Guided exercises 2.4\|Guided exercises 2.4]]
+	- [ ] [[Explorational exercises 2.4\|Explorational exercises 2.4]]
+
 [[Linux Essentials/Topic 2/Types of commands\|Types of commands]]

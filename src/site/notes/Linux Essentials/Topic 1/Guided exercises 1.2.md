@@ -17,6 +17,7 @@ Text in <font color="#3399F">blue</font> signals complementary information added
 | `apt-get` | Advanced Package Manager  | Debian  |
 | `yum`     | Yellowdog Update Modified | Red Hat |
 | `dnf`     | Dandified YUM             | Red Hat |
+
 <font color="#3399F">! dnf is meant as a replacement of yum for RHEL</font>
 
 ##### 2. Which command could be used to install Blender on Ubuntu? After installation, how can the program be executed? 
