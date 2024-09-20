@@ -12,6 +12,8 @@ Command line shells on Linux systems use this language to refer to groups of fil
 | `*`       | Matches any number of any character, including no characters. |
 | `?`       | Matches any one character.                                    |
 | `[]`      | Matches a class of characters.                                |
+|           | - Matches a **range** of characters                           |
+|           | - `^` **Negates** the matching of characters.                 |
 
 
 > [!IMPORTANT]
@@ -52,3 +54,19 @@ The `?` character expands to any single character, in a fixed position.
 ### Match a class of characters
 
 The `[]` brackets are used to match ranges or classes of characters. The `[]` brackets work like they do in POSIX regular expressions except with globs the `^` is used instead of `!`.
+
+The character classes supported depends on your current locale. POSIX requires the following character classes for all locales:
+
+| `[:alnum:]`  | Letters and numbers.                                                       |
+| ------------ | -------------------------------------------------------------------------- |
+| `[:alpha:]`  | Upper or lowercase letters.                                                |
+| `[:blank:]`  | Spaces and tabs.                                                           |
+| `[:cntrl:]`  | Control characters, e.g. backspace, bell, NAK, escape.                     |
+| `[:digit]`   | Numerals (0123456789).                                                     |
+| `[:graph:]`  | Graphic characters (all characters except `ctrl` and the space character). |
+| `[:lower:]`  | Lowercase letters (`a-z`).                                                 |
+| `[:print:]`  | Printable characters (`alnum`, `punct`, and the space character).          |
+| `[:punct:]`  | Punctuation characters, i.e. `!`, &, `"`.                                  |
+| `[:space:]`  | Whitespace characters, e.g. tabs, spaces, newlines.                        |
+| `[:upper:]`  | Uppercase letters (`A-Z`)                                                  |
+| `[:xdigit:]` | Hexadecimal numerals (usually `0123456789abcdefABCDEF`).                   |
