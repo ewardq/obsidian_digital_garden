@@ -42,7 +42,7 @@
 - Moving Files
 - Deleting Files and Directories
 - Copying Files and Directories
-- Globbing
+- [[Linux Essentials/Topic 2/Globbing\|Globbing]]
 	- [ ] [[Guided exercises 2.4\|Guided exercises 2.4]]
 	- [ ] [[Explorational exercises 2.4\|Explorational exercises 2.4]]
 
