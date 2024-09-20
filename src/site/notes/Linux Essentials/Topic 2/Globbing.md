@@ -70,3 +70,24 @@ The character classes supported depends on your current locale. POSIX requires t
 | `[:space:]`  | Whitespace characters, e.g. tabs, spaces, newlines.                        |
 | `[:upper:]`  | Uppercase letters (`A-Z`)                                                  |
 | `[:xdigit:]` | Hexadecimal numerals (usually `0123456789abcdefABCDEF`).                   |
+
+To use the digit class, you would do something like this:
+
+```bash
+$ ls file[[:digit:]]
+file1 file2 file3 file4 file5 file6 file7
+```
+
+To match the string `file` followed by a `digit` or `a`, it would look something like this:
+
+```bash
+$ ls file[[:digit:]a]
+file1 file2 file3 file4 file5 file6 file7 filea
+```
+
+In contrast, to match a string `file` followed by a `digit` and then an `a`, it would look something like this:
+
+```bash
+$ ls file[[:digit:]]a
+file1a
+```
