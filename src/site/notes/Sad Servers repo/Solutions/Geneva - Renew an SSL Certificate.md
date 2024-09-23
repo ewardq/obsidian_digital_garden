@@ -49,12 +49,50 @@ Common Name (e.g. server FQDN or YOUR name) []:examplebrooklyn.com
 Email Address []:
 ```
 
-This command creates a self-signed certificate (`nginx.crt.new`) from an existing private key (`nginx.key`) and (`nginx.csr`):
+Change to the directory where the certificate and private key are located:
 ``` bash
-openssl x509 \
-       -signkey nginx.key \
-       -in nginx.csr \
-       -req -days 365 -out nginx.crt.new
+cd /etc/nginx/ssl
 ```
 
+To get this information out of the expired SSL certificate, we can use `OpenSSL`.
+``` bash
+openssl x509 -noout -text -in nginx.crt
+```
+![Pasted image 20240923084001.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240923084001.png)
 
+Here, we can see that the original certificate has the following information:
+``` bash
+Issuer: CN = localhost, O = Acme, OU = IT Department, L = Geneva, ST = Geneva, C = CH
+Subject: CN = localhost, O = Acme, OU = IT Department, L = Geneva, ST = Geneva, C = CH
+Validity
+            Not Before: Sep 17 22:34:18 2024 GMT
+            Not After : Sep 18 22:34:18 2023 GMT
+```
+
+To enter this information non-interactively when creating the signing request (`.csr`), use the `-subj` option for OpenSSL.
+``` bash
+-subj "/C=CH/ST=Geneva/L=Geneva/O=Acme/CN=localhost"
+```
+
+Before making a new certificate and private key, rename the original files to make sure that they do not conflict with the new certificate and key.
+``` bash
+sudo mv nginx.crt nginx.crt.old 
+sudo mv nginx.key nginx.key.old
+```
+
+This command creates a self-signed certificate (`nginx.crt`) and a private key (`nginx.key`) using the information from the original certificate (`-subj`).
+``` bash
+sudo openssl req -x509 -nodes -days 365 
+	-newkey rsa:2048 -keyout nginx.key
+	-out nginx.crt
+	-subj "/CN=localhost/O=Acme/OU=IT Department/L=Geneva/ST=Geneva/C=CH"
+```
+
+Now, it's necessary to restart Nginx:
+``` bash
+sudo systemctl restart nginx
+```
+
+___And then the certificate is renewed!!___
+
+![Pasted image 20240923115425.png](/img/user/Sad%20Servers%20repo/Solutions/Reference%20images/Pasted%20image%2020240923115425.png)
