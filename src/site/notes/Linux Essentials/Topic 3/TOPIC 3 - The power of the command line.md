@@ -5,7 +5,7 @@
 ---
 
 #### 3.1 [[Archiving Files on the Command Line\|Archiving Files on the Command Line]]
--  Compression Tools
+- [[Linux Essentials/Topic 3/Compression Tools\|Compression Tools]]
 - Archiving Tools
 - Managing ZIP files
 	- [ ] [[Guided exercises 3.1\|Guided exercises 3.1]]
