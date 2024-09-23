@@ -13,12 +13,12 @@
 #### 3.2 Searching and Extracting Data from Files
 -  I O Redirection
 -  Command Line Pipes
-	- [ ] [[Guided exercises 3.2\|Guided exercises 3.2]]
-	- [ ] [[Explorational exercises 3.2\|Explorational exercises 3.2]]
+	- [ ] [[Guided exercises 3.2 Lesson1\|Guided exercises 3.2 Lesson1]]
+	- [ ] [[Explorational exercises 3.2 Lesson1\|Explorational exercises 3.2 Lesson1]]
 - Searching within Files with grep
 - Regular Expressions
-	- [ ] [[Guided exercises 3.2\|Guided exercises 3.2]]
-	- [ ] [[Explorational exercises 3.2\|Explorational exercises 3.2]]
+	- [ ] [[Guided exercises 3.2 Lesson2\|Guided exercises 3.2 Lesson2]]
+	- [ ] [[Explorational exercises 3.2 Lesson2\|Explorational exercises 3.2 Lesson2]]
 
 #### 3.3 Turning Commands into a Script
 -  Printing Output
@@ -31,11 +31,11 @@
 - Arguments
 - Returning the Number of Arguments
 - Conditional Logic
-	- [ ] [[Guided exercises 3.3\|Guided exercises 3.3]]
-	- [ ] [[Explorational exercises 3.3\|Explorational exercises 3.3]]
+	- [ ] [[Guided exercises 3.3 Lesson1\|Guided exercises 3.3 Lesson1]]
+	- [ ] [[Explorational exercises 3.3 Lesson1\|Explorational exercises 3.3 Lesson1]]
 - Exit Codes
 - Handling Many Arguments
 - For Loops
 - Using Regular Expressions to Perform Error Checking
-	- [ ] [[Guided exercises 3.2\|Guided exercises 3.2]]
-	- [ ] [[Explorational exercises 3.2\|Explorational exercises 3.2]]
+	- [ ] [[Guided exercises 3.2 Lesson2\|Guided exercises 3.2 Lesson2]]
+	- [ ] [[Explorational exercises 3.2 Lesson2\|Explorational exercises 3.2 Lesson2]]
