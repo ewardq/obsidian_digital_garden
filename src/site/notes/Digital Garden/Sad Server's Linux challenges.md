@@ -10,6 +10,7 @@ Here I'm archiving my solutions to the [SadServers - Linux & DevOps Troubleshoot
 [[Sad Servers repo/Solutions/Saskatoon - Counting IPS\|Saskatoon - Counting IPS]]
 - bash, wc, grep, sort
 [[Sad Servers repo/Solutions/Santiago - Find the secret combination\|Santiago - Find the secret combination]]
+- find, grep, cut 
 [[Sad Servers repo/Solutions/x Bucharest - Connecting to Postgres\|x Bucharest - Connecting to Postgres]]
 [[Sad Servers repo/Solutions/Lhasa - Easy Math\|Lhasa - Easy Math]]
 [[Sad Servers repo/Solutions/Taipei - Come a-knocking\|Taipei - Come a-knocking]]
