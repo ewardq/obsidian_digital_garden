@@ -5,10 +5,13 @@
 ---
 NAME
        cp - copy files and directories
-SYNOPSIS
+
+
+> [! Tip] Syntax
        cp [OPTION]... [-T] SOURCE DEST
        cp [OPTION]... SOURCE... DIRECTORY
        cp [OPTION]... -t DIRECTORY SOURCE...
+
 DESCRIPTION
        Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
 

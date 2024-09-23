@@ -4,10 +4,11 @@
 
 ---
 Name: mv - move (rename) files
-Synopsis
-mv [OPTION]... [-T] SOURCE DEST
-mv [OPTION]... SOURCE... DIRECTORY
-mv [OPTION]... -t DIRECTORY SOURCE...
+
+> [! Tip] Syntax
+	mv [OPTION]... [-T] SOURCE DEST
+	mv [OPTION]... SOURCE... DIRECTORY
+	mv [OPTION]... -t DIRECTORY SOURCE...
 
 Description
 Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY.
