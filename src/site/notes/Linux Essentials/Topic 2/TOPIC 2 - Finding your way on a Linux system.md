@@ -39,7 +39,7 @@
 - Creating Directories
 - Creating Files
 - Renaming Files
-- Moving Files
+- Moving Files 
 - Deleting Files and Directories
 - Copying Files and Directories
 - [[Linux Essentials/Topic 2/Globbing\|Globbing]]
