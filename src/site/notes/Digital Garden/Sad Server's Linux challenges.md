@@ -17,6 +17,7 @@ Here I'm archiving my solutions to the [SadServers - Linux & DevOps Troubleshoot
 [[Sad Servers repo/Solutions/Apia - Needle in a Haystack\|Apia - Needle in a Haystack]]
 [[Sad Servers repo/Solutions/Minneapolis - Break a CSV file\|Minneapolis - Break a CSV file]]
 [[Sad Servers repo/Solutions/Saint Paul - Merge Many CSVs files\|Saint Paul - Merge Many CSVs files]]
+[[Sad Servers repo/Solutions/Geneva - Renew an SSL Certificate\|Geneva - Renew an SSL Certificate]]
 
 Medium
 [[Sad Servers repo/Solutions/Tokyo - Can't serve web file\|Tokyo - Can't serve web file]]
