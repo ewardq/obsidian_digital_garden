@@ -29,7 +29,7 @@ find /etc/ -maxdepth 4 -type f -exec echo "{}" \; | rev
 ```
 ![Pasted image 20240924101124.png](/img/user/Linux%20Essentials/Topic%203/Reference%20images/Pasted%20image%2020240924101124.png)
 
-Then, cut so only the first element is present using [[cut\|cut]].
+Then, cut so only the first element is present using [[Linux Essentials/Topic 3/cut\|cut]].
 
 ```bash
 find /etc/ -maxdepth 4 -type f -exec echo "{}" \; | rev | cut -d"/" -f1
