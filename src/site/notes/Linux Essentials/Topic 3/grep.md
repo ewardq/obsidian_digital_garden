@@ -22,5 +22,5 @@ ___Shows only the lines that comply with a pattern. It can be used with word or 
 | `-n`                  |                                                                                |
 | `-i`                  |                                                                                |
 | `-c`                  |                                                                                |
-| `-r                   |                                                                                |
+| `-r`                  |                                                                                |
 
