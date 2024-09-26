@@ -3,12 +3,12 @@
 ---
 
 ---
-Concatenate files and print on the standard output.
-With no FILE, or when FILE is -, read standard input.
+___Concatenate files and print on the standard output.___
 
 > [! Tip] Syntax
 	cat [OPTION]... [FILE]...
 
+With no `FILE`, or when `FILE` is -, read standard input.
 
 Output `f`'s contents, then standard input, then `g`'s contents.
 ```bash

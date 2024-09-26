@@ -3,7 +3,7 @@
 ---
 
 ---
-This commands compresses several files and directories into a single file.
+___This commands compresses several files and directories into a single file.___
 
 > [! Tip] Syntax
 	tar [options] destination.tar files

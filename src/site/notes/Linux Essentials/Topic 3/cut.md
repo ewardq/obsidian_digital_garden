@@ -8,7 +8,7 @@ ___Remove sections from each line of files___
 > [! Tip] Syntax
 	 cut [OPTION]... [FILE]...
 
-Print selected parts of lines from each FILE to standard output.
+Print selected parts of lines from each `FILE` to standard output.
 
 ### Important options
 

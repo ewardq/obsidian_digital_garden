@@ -10,7 +10,7 @@ ___Shows only the lines that comply with a pattern. It can be used with word or 
        grep [OPTION...] -e PATTERNS ... [FILE...]
        grep [OPTION...] -f PATTERN_FILE ... [FILE...]
 
-**grep** searches for _PATTERNS_ in each _FILE_.  _PATTERNS_ is one or more patterns separated by newline characters, and **grep** prints each line that matches a pattern.  Typically _PATTERNS_ should be quoted when **grep** is used in a shell command.
+**grep** searches for `PATTERNS` in each `FILE`.  `PATTERNS` is one or more patterns separated by newline characters, and **grep** prints each line that matches a pattern.  Typically `PATTERNS` should be quoted when **grep** is used in a shell command.
 
 ### Important options
 
