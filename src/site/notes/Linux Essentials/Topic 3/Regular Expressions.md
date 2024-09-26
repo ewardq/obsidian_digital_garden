@@ -12,32 +12,26 @@ Here's the list of the regular expressions meta-characters that are used to form
 > [!Important]
 > To prevent the shell from interpreting the meta-character itself, it's recommended that the more complex pattern be between double quotes (" ")
 
-`.`
-Match any single character (except newline).
 
-`[abcABC]` 
-Match any one character within the brackets (in this case, both lowercase and uppercase a, b and c will be matched).
+| Meta-character | Description                                                                                                          |
+| -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `.`            | Match any single character (except newline).                                                                         |
+| `[abcABC]`     | Match any one character within the brackets (in this case, both lowercase and uppercase a, b and c will be matched). |
+| `[^abcABC]`    | Match any one character except the ones in the brackets (any character is valid but not the ones mentioned).         |
+| `[a-z]`        | Match any character in the range.                                                                                    |
+| `[^a-z]`       | Match any character except the ones in the range.                                                                    |
+| `^`            | Start of a line.                                                                                                     |
+| `$`            | End of a line.                                                                                                       |
 
-`[^abcABC]`
-Match any one character except the ones in the brackets (any character is valid but not the ones mentioned).
-
-`[a-z]`
-Match any character in the range. 
-
-`[^a-z]`
-Match any character except the ones in the range.
-
-`^`
+`^` -----------------------------------------------------------------------------
 Start of a line.
-
 ```bash
 grep ^a /usr/share/dict/spanish
 ```
 Show the words that begin with the letter "a".
 
-`$`
+`$` -----------------------------------------------------------------------------
 End of a line.
-
 ```bash
 grep o$ /usr/share/dict/spanish
 ```
