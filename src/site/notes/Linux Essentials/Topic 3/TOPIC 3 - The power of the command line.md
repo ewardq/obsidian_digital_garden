@@ -28,7 +28,7 @@
 - Defining the Interpreter
 - Variables
 - Using Quotes with Variables
-- Arguments
+- [[Linux Essentials/Topic 3/Arguments\|Arguments]]
 - Returning the Number of Arguments
 - Conditional Logic
 	- [ ] [[Guided exercises 3.3 Lesson1\|Guided exercises 3.3 Lesson1]]
