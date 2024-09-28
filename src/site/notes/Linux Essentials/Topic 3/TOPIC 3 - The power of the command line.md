@@ -26,7 +26,7 @@
 - Commands and PATH
 - Execute Permissions
 - Defining the Interpreter
-- Variables
+- [[Linux Essentials/Topic 3/Shell Variables\|Shell Variables]]
 - Using Quotes with Variables
 - [[Linux Essentials/Topic 3/Arguments\|Arguments]]
 - Returning the Number of Arguments
