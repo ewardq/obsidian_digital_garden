@@ -3,7 +3,7 @@
 ---
 
 ---
-
+#bash #find #grep #DataStreams
 **Type:** Do
 **Description:** A spy has left a password in a file in _/proc/sys_ . The contents of the file start with _"secret:"_ (without the quotes).  
   
