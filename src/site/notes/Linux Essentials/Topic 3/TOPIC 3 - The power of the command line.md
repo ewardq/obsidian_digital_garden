@@ -39,3 +39,5 @@
 - Using Regular Expressions to Perform Error Checking
 	- [ ] [[Guided exercises 3.2 Lesson2\|Guided exercises 3.2 Lesson2]]
 	- [ ] [[Explorational exercises 3.2 Lesson2\|Explorational exercises 3.2 Lesson2]]
+
+[[Linux Essentials/Topic 3/File-Directory conditionals\|File-Directory conditionals]]
