@@ -30,7 +30,7 @@
 - Using Quotes with Variables
 - [[Linux Essentials/Topic 3/Arguments\|Arguments]]
 - Returning the Number of Arguments
-- Conditional Logic
+- [[Linux Essentials/Topic 3/Conditional Logic\|Conditional Logic]]
 	- [ ] [[Guided exercises 3.3 Lesson1\|Guided exercises 3.3 Lesson1]]
 	- [ ] [[Explorational exercises 3.3 Lesson1\|Explorational exercises 3.3 Lesson1]]
 - Exit Codes
