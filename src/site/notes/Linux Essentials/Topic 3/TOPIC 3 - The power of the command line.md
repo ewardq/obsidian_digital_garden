@@ -35,7 +35,7 @@
 	- [ ] [[Explorational exercises 3.3 Lesson1\|Explorational exercises 3.3 Lesson1]]
 - Exit Codes
 - Handling Many Arguments
-- For Loops
+- [[Linux Essentials/Topic 3/For Loops\|For Loops]]
 - Using Regular Expressions to Perform Error Checking
 	- [ ] [[Guided exercises 3.2 Lesson2\|Guided exercises 3.2 Lesson2]]
 	- [ ] [[Explorational exercises 3.2 Lesson2\|Explorational exercises 3.2 Lesson2]]

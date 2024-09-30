@@ -12,7 +12,7 @@
 4.2 Understanding Computer Hardware
 	4.2.1 Power Supplies
 	4.2.2 Motherboard
-	4.2.3 Memory
+	4.2.3 [[Linux Essentials/Topic 4/Memory\|Memory]]
 	4.2.4 Processors
 	4.2.5 Storage
 	4.2.6 [[Linux Essentials/Topic 4/Partitions\|Partitions]]
