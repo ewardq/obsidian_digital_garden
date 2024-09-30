@@ -7,7 +7,7 @@ ___System memory holds the data and program code of currently running applicatio
 
 Physical system memory is usually packaged on individual circuit board modules that plug into the motherboard.
 
-![RAM-Diagram.png](/img/user/RAM-Diagram.png)
+![RAM-Diagram.png](/img/user/Linux%20Essentials/Topic%204/Topic4%20reference%20images/RAM-Diagram.png)
 
 There are several ways to obtain information about system memory. As a user, the total amount of memory available and in use are typically the values of interest. One source of information would be to run the command [[Linux Essentials/Topic 4/free\|free]] with the parameter `-m`.
 
