@@ -21,13 +21,13 @@ Or within a bash script.
 
 The **syntax** of conditional logic in bash differs from other programming languages. 
 
-| Syntax | Description              |
-| ------ | ------------------------ |
-| `-ne`  | Not equal to             |
-| `-gt`  | Greater than             |
-| `-ge`  | Greater than or equal to |
-| `-lt`  | Less than                |
-| `-le`  | Less than or equal to    |
+| Syntax | Description                   |
+| ------ | ----------------------------- |
+| `-ne`  | _!=_ Not equal to             |
+| `-gt`  | _>_ Greater than              |
+| `-ge`  | _>=_ Greater than or equal to |
+| `-lt`  | _<_ Less than                 |
+| `-le`  | _>=_ Less than or equal to    |
 
 ### The IF conditional 
 Execute one or more instructions **only if** a condition is met
