@@ -17,7 +17,7 @@
 	4.2.5 Storage
 	4.2.6 [[Linux Essentials/Topic 4/Partitions\|Partitions]]
 	4.2.7 Peripherals
-	4.2.8 Drivers and Device Files
+	4.2.8 [[Linux Essentials/Topic 4/Drivers\|Drivers]] and Device Files
 4.3 [[Linux Essentials/Topic 4/Where Data is Stored\|Where Data is Stored]]
 	4.3.1 [[Programs and their Configuration\|Programs and their Configuration]]
 		4.3.1.1 [[Linux Essentials/Topic 4/Where Binary Files are stored\|Where Binary Files are stored]]
@@ -47,4 +47,4 @@
 [[Linux Essentials/Topic 4/HTTP Methods\|HTTP Methods]]
 [[Linux Essentials/Topic 4/HTTP Header Fields\|HTTP Header Fields]]
 [[Linux Essentials/Topic 4/HTTP STATUS CODES\|HTTP STATUS CODES]]
-
+[[Linux Essentials/Topic 4/How to name partitions and disks\|How to name partitions and disks]]
