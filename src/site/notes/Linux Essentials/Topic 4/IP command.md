@@ -11,7 +11,7 @@ The `IP` command englobes a lot of functionalities from now obsolete network man
 | :---------------: | :---------------------------------------------------------------------------------------------: |
 |        arp        |                                      `ip n` (ip neighbor)                                       |
 |     ifconfig      |                        `ip a` (ip addr), `ip link`, `ip -s` (ip -stats)                         |
-|      netstat      | [[ss\|ss]], `ip route` (for netstat -r), `ip -s link` (for netstat -i), `ip maddr` (for netstat -g) |
+|      netstat      | [[Linux Essentials/Topic 4/ss\|ss]], `ip route` (for netstat -r), `ip -s link` (for netstat -i), `ip maddr` (for netstat -g) |
 |       route       |                                        `ip r` (ip route)                                        |
 
 _iproute2_ `ip`
