@@ -30,7 +30,7 @@
 	4.3.3 Hardware Devices
 	4.3.4 [[Memory and Memory Types\|Memory and Memory Types]]
 4.3.2 [[Linux Essentials/Topic 4/Processes\|Processes]]
-4.3.3 [[System logging and system messaging\|System logging and system messaging]]
+4.3.3 [[Linux Essentials/Topic 4/System logging and system messaging\|System logging and system messaging]]
 	4.3.1 [[Linux Essentials/Topic 4/The Kernel Ring Buffer\|The Kernel Ring Buffer]]
 		4.3.1.1 [[Linux Essentials/Topic 4/The system journal, systemd-journald\|The system journal, systemd-journald]]
 		
