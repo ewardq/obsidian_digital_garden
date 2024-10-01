@@ -37,3 +37,17 @@ List of facilities used by _rsyslog_. Generally it depends on the situation how 
 | 5              | notice   | normal but significant condition |
 | 6              | info     | informational messages           |
 | 7              | debug    | debug-level messages             |
+
+### How to use
+Here's  some examples on how to use the _rsyslog_ utility.
+
+| Selector                    | Description                                       |
+| --------------------------- | ------------------------------------------------- |
+| `*.*`                       | All messages                                      |
+| `*.info`                    | All _info_ messages                               |
+| `kern.*`                    | All _kernel_ messages                             |
+| `mail.err`                  | All _email error_ messages                        |
+| `cron,lpr.warn`             | Warning messages of _cron_ and _lpr_              |
+| `cron.err;cron.!alert`      | Error messages from _cron_ but **not** the alerts |
+| `mail.=err`                 | Email errors                                      |
+| `*.info;mail.none;lpr.none` | All _info_ messages except _mail_ and _lpr_       |
