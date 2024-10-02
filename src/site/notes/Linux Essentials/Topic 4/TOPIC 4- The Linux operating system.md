@@ -48,3 +48,5 @@
 [[Linux Essentials/Topic 4/HTTP Header Fields\|HTTP Header Fields]]
 [[Linux Essentials/Topic 4/HTTP STATUS CODES\|HTTP STATUS CODES]]
 [[Linux Essentials/Topic 4/How to name partitions and disks\|How to name partitions and disks]]
+
+[[Linux Essentials/Topic 4/Network configuration\|Network configuration]]
