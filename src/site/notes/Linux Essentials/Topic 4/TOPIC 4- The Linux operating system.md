@@ -50,3 +50,5 @@
 [[Linux Essentials/Topic 4/How to name partitions and disks\|How to name partitions and disks]]
 
 [[Linux Essentials/Topic 4/Network configuration\|Network configuration]]
+[[Linux Essentials/Topic 4/Network adapter configuration\|Network adapter configuration]]
+
