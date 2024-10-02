@@ -39,7 +39,7 @@
 	4.4.1 [[Linux Essentials/Topic 4/Link Layer Networking\|Link Layer Networking]]
 	4.4.2 [[IPv4 Networking\|IPv4 Networking]]
 	4.4.3 [[IPv6 Networking\|IPv6 Networking]]
-	4.4.4 [[DNS\|DNS]]
+	4.4.4 [[Linux Essentials/Topic 4/DNS\|DNS]]
 	4.4.5 [[Linux Essentials/Topic 4/Sockets\|Sockets]]
 [[Linux Essentials/Topic 4/IP command\|IP command]]
 [[Linux Essentials/Topic 4/HTTP\|Linux Essentials/Topic 4/HTTP]]
