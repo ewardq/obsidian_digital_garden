@@ -27,7 +27,7 @@ A Linux server is usually has a lot of users, so it is important to manage who c
 - [[Linux Essentials/Topic 5/Understanding Permissions\|Understanding Permissions]]
 - [[Linux Essentials/Topic 5/Modifying File Permissions\|Modifying File Permissions]]
 - [[Linux Essentials/Topic 5/Modifying Directory Permissions\|Modifying Directory Permissions]]
-- [[Symbolic Mode\|Symbolic Mode]]
+- [[Linux Essentials/Topic 5/Symbolic Mode\|Symbolic Mode]]
 - [[Numeric Mode\|Numeric Mode]]
 - [[Modifying File Ownership\|Modifying File Ownership]]
 - [[Querying Groups\|Querying Groups]]
