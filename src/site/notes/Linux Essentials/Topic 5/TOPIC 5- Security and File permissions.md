@@ -35,4 +35,3 @@ A Linux server is usually has a lot of users, so it is important to manage who c
 - [[Temporary Files\|Temporary Files]]
 - [[Understanding Links\|Understanding Links]]
 
-[[Linux Essentials/Topic 5/chown\|chown]]
