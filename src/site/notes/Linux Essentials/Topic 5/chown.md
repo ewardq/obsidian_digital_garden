@@ -16,23 +16,6 @@ Change the user and group of one or more elements (files and directories). The `
 - `:` If only a colon `:` is given, without specifying the user and the group, no change is made.
 
 ---
-### Octal note
-A widely used, often shorter, form of calling _chmod_ is by use of the octal notation. This is a combination of three numbers by which we can represent all combinations of access rights.
-
-The following table shows the equivalent octal and symbolic notations:
-```bash
-r/w/x | binary | octal
- ---  |  000   |   0
- --x  |  001   |   1
- -w-  |  010   |   2
- -wx  |  011   |   3
- r--  |  100   |   4
- r-x  |  101   |   5
- rw-  |  110   |   6
- rwx  |  111   |   7
-```
-
----
 #### EXAMPLES
 `chown root /u`
 - Change the owner of /u to "root".
