@@ -3,7 +3,8 @@
 ---
 
 ---
-**chown:** Change the user and group of one or more elements (files and directories). The `-R` option makes it recursive (useful for changing the permissions of a directory and all or some of its files).
+___Change file owner and group___
+Change the user and group of one or more elements (files and directories). The `-R` option makes it recursive (useful for changing the permissions of a directory and all or some of its files).
 
 > [!Important] Syntax
 > chown [OPTION] [OWNER]:[GROUP] ELEMENT
