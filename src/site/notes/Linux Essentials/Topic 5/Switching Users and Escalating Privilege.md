@@ -21,5 +21,5 @@ root ~#
 
 ### Information about logins
 - [[who\|who]]: Indicates _who_ has logged in.
-- [[w\|w]]: Show who is logged on and what they are doing.
+- [[Linux Essentials/Topic 5/w\|w]]: Show who is logged on and what they are doing.
 - [[Linux Essentials/Topic 5/last\|last]]:  Show listing of last logged in users
