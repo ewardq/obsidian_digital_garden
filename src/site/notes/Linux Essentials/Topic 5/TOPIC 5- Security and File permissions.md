@@ -6,7 +6,7 @@
 A Linux server is usually has a lot of users, so it is important to manage who can access which files and what can he do.
 
 ### 5.1 [[Linux Essentials/Topic 5/Basic Security and Identifying User Types\|Basic Security and Identifying User Types]]
-- [[Accounts\|Accounts]]
+- [[Linux Essentials/Topic 5/Accounts\|Accounts]]
 - [[Getting Information About Your Users\|Getting Information About Your Users]]
 - [[Switching Users and Escalating Privilege\|Switching Users and Escalating Privilege]]
 - [[Access Control Files\|Access Control Files]]
