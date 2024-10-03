@@ -24,7 +24,7 @@ A Linux server is usually has a lot of users, so it is important to manage who c
 - [[What about Directories \| What about Directories?]]
 - [[Seeing Hidden Files\|Seeing Hidden Files]]
 - [[Understanding Filetypes\|Understanding Filetypes]]
-- [[Understanding Permissions\|Understanding Permissions]]
+- [[Linux Essentials/Topic 5/Understanding Permissions\|Understanding Permissions]]
 - [[Linux Essentials/Topic 5/Modifying File Permissions\|Modifying File Permissions]]
 - [[Linux Essentials/Topic 5/Modifying Directory Permissions\|Modifying Directory Permissions]]
 - [[Symbolic Mode\|Symbolic Mode]]

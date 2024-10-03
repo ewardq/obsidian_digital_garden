@@ -12,7 +12,6 @@ chmod [OPTION]... --reference=RFILE FILE...
 
 **chmod** changes the file mode bits of each given file according to _mode_, which can be either a symbolic representation of changes to make, or an octal number representing the bit pattern for the new mode bits.
 
-
 ---
 ### Octal note
 A widely used, often shorter, form of calling [[Linux Essentials/Topic 5/chmod\|chmod]] is by use of the octal notation. This is a combination of three numbers by which we can represent all combinations of access rights.
