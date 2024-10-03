@@ -31,7 +31,7 @@ A Linux server is usually has a lot of users, so it is important to manage who c
 - [[Numeric Mode\|Numeric Mode]]
 - [[Modifying File Ownership\|Modifying File Ownership]]
 - [[Querying Groups\|Querying Groups]]
-- [[Special Permissions\|Special Permissions]]
+- [[Linux Essentials/Topic 5/Special Permissions\|Special Permissions]]
 ### 5.4 [[Special Directories and Files\|Special Directories and Files]]
 - [[Temporary Files\|Temporary Files]]
 - [[Understanding Links\|Understanding Links]]
