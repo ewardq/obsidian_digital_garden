@@ -14,6 +14,25 @@ Change the user and group of one or more elements (files and directories). The `
 - `USER:GROUP` - If both the user and the group are specified (with no space between them), the user ownership of the files is changed to the given user and the group ownership is changed to the given group.
 - `:GROUP` - If the User is omitted and the group is prefixed with a colon `:`, only the group ownership of the files is changed to the given group.
 - `:` If only a colon `:` is given, without specifying the user and the group, no change is made.
+
+---
+### Octal note
+A widely used, often shorter, form of calling _chmod_ is by use of the octal notation. This is a combination of three numbers by which we can represent all combinations of access rights.
+
+The following table shows the equivalent octal and symbolic notations:
+```bash
+r/w/x | binary | octal
+ ---  |  000   |   0
+ --x  |  001   |   1
+ -w-  |  010   |   2
+ -wx  |  011   |   3
+ r--  |  100   |   4
+ r-x  |  101   |   5
+ rw-  |  110   |   6
+ rwx  |  111   |   7
+```
+
+---
 #### EXAMPLES
 `chown root /u`
 - Change the owner of /u to "root".
@@ -23,3 +42,6 @@ Change the user and group of one or more elements (files and directories). The `
 
 `chown -hR root /u`
 - Change the owner of /u and subfiles to "root".
+
+#Need_Citation 
+[Setting Permissions with chown and chmod | Baeldung on Linux](https://www.baeldung.com/linux/chown-chmod-permissions)
