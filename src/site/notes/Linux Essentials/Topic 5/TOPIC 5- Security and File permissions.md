@@ -34,3 +34,5 @@ A Linux server is usually has a lot of users, so it is important to manage who c
 ### 5.4 [[Special Directories and Files\|Special Directories and Files]]
 - [[Temporary Files\|Temporary Files]]
 - [[Understanding Links\|Understanding Links]]
+
+[[Linux Essentials/Topic 5/chown\|chown]]
