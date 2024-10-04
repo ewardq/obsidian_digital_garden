@@ -13,7 +13,7 @@ A Linux server is usually has a lot of users, so it is important to manage who c
 ### 5.2 [[Linux Essentials/Topic 5/Creating Users and Groups\|Creating Users and Groups]]
 - [[Linux Essentials/Topic 5/The file etc-passwd\|The File /etc/passw]]
 - [[Linux Essentials/Topic 5/The file etc-group\|The File /etc/group]]
-- [[The file etc-shadow\|The File /etc/shadow]]
+- [[Linux Essentials/Topic 5/The file etc-shadow\|The File /etc/shadow]]
 - [[The file etc-gshadow\|The File /etc/gshadow]]
 - [[Adding and Deleting User Accounts\|Adding and Deleting User Accounts]]
 - [[The Skeleton Directory\|The Skeleton Directory]]

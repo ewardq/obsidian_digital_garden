@@ -17,3 +17,5 @@ Each line consists of four colon-delimited fields:
 | `Group Passowrd` | The encrypted password of the group (or an x if shadow passwords are used).                              |
 | `Group ID (GID)` | The ID number assigned to the group in the system.                                                       |
 | `Member list`    | A comma-delimited list of users belonging to the group, except those for whom this is the primary group. |
+
+#Need_Citation #Need_Color 

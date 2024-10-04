@@ -20,3 +20,5 @@ Each line consists of seven colon-delimited fields:
 | `GECOS`           | An optional comment field, which is used to add extra information about the user (such as the full name). The field can contain multiple comma-separated entries |
 | `Home directory ` | The absolute path of the user’s home directory.                                                                                                                  |
 | `Shell`           | The absolute path of the program that is automatically launched when the user logs into the system (usually an interactive shell such as /bin/bash).             |
+
+#Need_Citation #Need_Color 
