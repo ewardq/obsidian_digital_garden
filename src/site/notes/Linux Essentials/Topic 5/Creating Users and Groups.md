@@ -9,7 +9,7 @@ Information about users and groups is stored in four files within the `/etc/`  d
 
 | Directory                              | Description                                                                          |
 | -------------------------------------- | ------------------------------------------------------------------------------------ |
-| [[The file etc-passwd\|/etc/password]] | A file of seven colon-delimited fields containing basic **information about users**. |
+| [[Linux Essentials/Topic 5/The file etc-passwd\|/etc/password]] | A file of seven colon-delimited fields containing basic **information about users**. |
 | [[The file etc-group\|/etc/group]]     | A file of four colon-delimited fields containing basic **information about groups.** |
 | [[The file etc-shadow\|/etc/shadow]]   | A file of nine colon-delimited fields containing **encrypted user passwords.**       |
 | [[The file etc-gshadow\|/etc/gshadow]] | A file of four colon-delimited fields containing **encrypted group passwords.**      |

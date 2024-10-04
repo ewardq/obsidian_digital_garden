@@ -11,7 +11,7 @@ A Linux server is usually has a lot of users, so it is important to manage who c
 - [[Linux Essentials/Topic 5/Switching Users and Escalating Privilege\|Switching Users and Escalating Privilege]]
 - [[Access Control Files\|Access Control Files]]
 ### 5.2 [[Linux Essentials/Topic 5/Creating Users and Groups\|Creating Users and Groups]]
-- [[The file etc-passwd\|The File /etc/passw]]
+- [[Linux Essentials/Topic 5/The file etc-passwd\|The File /etc/passw]]
 - [[The file etc-group\|The File /etc/group]]
 - [[The file etc-shadow\|The File /etc/shadow]]
 - [[The file etc-gshadow\|The File /etc/gshadow]]
