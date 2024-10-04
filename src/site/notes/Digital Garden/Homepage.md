@@ -5,7 +5,7 @@
 # Eduardo Martínez Piña
 ---
 Hi there!
-I'm currently an embedded software test engineer aspiring to take the leap to developing professionally, focusing mostly on Linux, Python, C++, Embedded Systems, Operating Systems, the Cloud and more (:
+I'm currently an embedded software test engineer aspiring to take the leap into developing professionally. I focus focus mainly on Linux, Python, C++, Embedded Systems, Operating Systems, the Cloud and more!
 
 |                         [[Digital Garden/Sad Server's Linux challenges\|Sad Server's Linux challenges]]                         |                                     [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]                                      |
 | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
