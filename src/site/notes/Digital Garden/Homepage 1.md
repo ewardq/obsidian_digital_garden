@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/homepage-1/","contentClasses":"custom-style.scss img-grid.css","noteIcon":3}
 ---
 
-This is an #important test
+This is an #important note and test
 ![[SadServers-icon-2.png \|200]]
 ---
 
