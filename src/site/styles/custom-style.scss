@@ -1,3 +1,9 @@
-.tag[href="#important"]{
-    color : red !important;
+body {
+    /***
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+   ***/
+    .tag[href="#important"]{
+        color : red !important;
+    }
 }
