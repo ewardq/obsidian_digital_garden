@@ -118,6 +118,7 @@ El robot traza una vuelta amplia para poder seguir el set-point. Los motores aum
 <p align="center">
   Figura 5.10 Velocidad de los actuadores y trayectoria del robot para problema de seguimiento.
 </p>
+
 ### Conclusiones
 
 A continuación, se presenta una lista de las actividades que cumplieron con los objetivos específicos: 
