@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage-1/","contentClasses":"custom-style.scss img-grid.css","noteIcon":3}
+{"dg-publish":true,"permalink":"/digital-garden/homepage-1/","contentClasses":"custom-style.scss","noteIcon":3}
 ---
 
 This is an #important note and test
