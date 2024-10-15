@@ -10,7 +10,6 @@
 - [[Linux Essentials/Topic 2/Quoting\|Quoting]]
 ///
 - [[Linux Essentials/Topic 2/Variables\|Variables]]
-- Manipulating Exercises
 	- [ ] [[Guided exercises 2.1\|Guided exercises 2.1]]
 	- [ ] [[Explorational exercises 2.1\|Explorational exercises 2.1]]
 #### 2.2 Using the Command Line to Get Help
@@ -19,7 +18,7 @@
 	- [ ] [[Guided exercises 2.2\|Guided exercises 2.2]]
 	- [ ] [[Explorational exercises 2.2\|Explorational exercises 2.2]]
 #### 2.3 Using Directories and Listing Files
-- Files and Directories
+- [[Files and Directories\|Files and Directories]]
 - File and Directory Names
 - Navigating the Filesystem
 - [[Linux Essentials/Topic 2/Absolute and Relative Paths\|Absolute and Relative Paths]]
@@ -51,6 +50,5 @@
 [[Linux Essentials/Topic 2/Command Types\|Command Types]]
 [[Linux Essentials/Topic 2/cp\|cp]]
 [[Linux Essentials/Topic 2/mkdir\|mkdir]]
-[[Linux Essentials/Topic 2/tree\|tree]]
 [[Linux Essentials/Topic 2/Command Types\|Command Types]]
 [[Linux Essentials/Topic 2/Managing files\|Managing files]]
