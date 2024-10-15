@@ -6,12 +6,14 @@
 ---
 ### For loops
 
-The code block will execute the lines or instructions within it **until** it fnishes the elements of a list.
+The code block will execute the lines or instructions within it **until** it finishes the elements of a list.
 
-> [!Important] Syntax
-> for <VARIABLE> in <LIST>; do
->       INSTRUCTIONS
-> done
+**Syntax**
+``` bash
+for <VARIABLE> in <LIST>; do
+	INSTRUCTIONS
+done
+```
 
 Let's look at an example:
 ```bash
@@ -22,8 +24,9 @@ done
 
 Where the output will be:
 
-Iteration   $i      Result
-1            0    variable i = 5
-2            1    variable i = 6
-3            2    variable i = 7
-4            3    variable i = 8
+| Iteration | `$i` | Result         |
+| --------- | ---- | -------------- |
+| 1         | 0    | variable i = 5 |
+| 2         | 1    | variable i = 6 |
+| 3         | 2    | variable i = 7 |
+| 4         | 3    | variable i = 8 |
