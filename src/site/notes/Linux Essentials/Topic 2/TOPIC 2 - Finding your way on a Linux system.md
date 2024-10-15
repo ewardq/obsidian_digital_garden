@@ -18,7 +18,7 @@
 	- [ ] [[Guided exercises 2.2\|Guided exercises 2.2]]
 	- [ ] [[Explorational exercises 2.2\|Explorational exercises 2.2]]
 #### 2.3 Using Directories and Listing Files
-- [[Files and Directories\|Files and Directories]]
+- [[Linux Essentials/Topic 2/Files and Directories\|Files and Directories]]
 - File and Directory Names
 - Navigating the Filesystem
 - [[Linux Essentials/Topic 2/Absolute and Relative Paths\|Absolute and Relative Paths]]
