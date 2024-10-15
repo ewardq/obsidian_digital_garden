@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/groupadd/","noteIcon":"1"}
 ---
+
 ---
 ___Create a new group___
 

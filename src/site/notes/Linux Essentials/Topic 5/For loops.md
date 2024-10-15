@@ -1,3 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/for-loops/","noteIcon":"1"}
+---
+
 
 ---
 ### For loops
