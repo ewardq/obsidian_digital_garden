@@ -25,6 +25,9 @@ Here I'm archiving my solutions to the [SadServers - Linux & DevOps Troubleshoot
 [[Sad Servers repo/Solutions/Apia - Needle in a Haystack\|Apia - Needle in a Haystack]]
 - #diff #bash #awk
 
+[[Sad Servers repo/Solutions/Gitega - Find the Bad Git Commit\|Gitega - Find the Bad Git Commit]]
+- #git #gitBisect
+
 [[Sad Servers repo/Solutions/Minneapolis - Break a CSV file\|Minneapolis - Break a CSV file]]
 - #bash #csv #tail #head
 
