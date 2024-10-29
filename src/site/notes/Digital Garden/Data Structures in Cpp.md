@@ -13,3 +13,13 @@ The **type** of a variable defines the contents of the variable. Every **type** 
 
 - [[Data Structures in Cpp/Primitive type\|Primitive type]]
 - [[Data Structures in Cpp/User-defined type\|User-defined type]]
+
+### C++ Programs
+
+Every C++ program must contain a starting point. By the C++ standard, the starting point is a function:
+
+```c++
+int main()
+```
+
+By ___convention___, the return value of main is `0` (zero) if the program was successful and non-zero on erros.
