@@ -17,7 +17,7 @@ The protection level determines the access that "client code" has to the member 
 - **Private** members _cannot_ be accessed by client code (only used within the class itself).
 ---
 
-### Encapsulation \#2
+### Encapsulation \# 2
 
 In C++, the [[Data Structures in Cpp/C++ Header File (.h)\| interface]] (.h file) to the class is defined separately from the **implementation** (.cpp file).
 

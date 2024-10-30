@@ -10,9 +10,8 @@ A header file (.h) defines the interface to the class, which includes:
 
 `cpp-class/Cube.h`
 ```c++
-#pragma once
-
-class Cube {
+#pragma once            // <<--- This is always present on .h files and tells the                               // compiler to compile this file once regardless of how many                            // programs use the header.
+class Cube {         // <<--- This is the class' name
 	public:
 		double getVolume();
 		double getSurfaceArea();
@@ -22,3 +21,4 @@ class Cube {
 		double length_;
 };
 ```
+
