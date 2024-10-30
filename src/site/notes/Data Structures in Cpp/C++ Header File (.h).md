@@ -14,12 +14,12 @@ A header file (.h) defines the interface to the class, which includes:
 
 class Cube {            // << Class name
 	public:
-		double getVolume();            // << Public variable
+		double getVolume();              // << Public variable
 		double getSurfaceArea();
-		void setLength(double length); // << Public method
+		void setLength(double length);   // << Public method
 		
 	private:
-		double length_;                // << Private variable
+		double length_;                  // << Private variable
 };
 ```
 
