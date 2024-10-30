@@ -10,15 +10,19 @@ A header file (.h) defines the interface to the class, which includes:
 
 `cpp-class/Cube.h`
 ```c++
-#pragma once            // <<--- This is always present on .h files and tells the                               // compiler to compile this file once regardless of how many                            // programs use the header.
-class Cube {         // <<--- This is the class' name
+#pragma once            // << Compile once
+
+class Cube {            // << Class name
 	public:
-		double getVolume();
+		double getVolume();            // << Public variable
 		double getSurfaceArea();
-		void setLength(double length);
+		void setLength(double length); // << Public method
 		
 	private:
-		double length_;
+		double length_;                // << Private variable
 };
 ```
 
+The `#pragma once` line is always present on **.h** files and tells the compiler to compiles this file once regardless of how many programs user the header.
+
+The `class Cube` line tells the compiler to create a new class called **Cube**, with both `public` and `private` methods and variables.
