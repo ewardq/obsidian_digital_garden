@@ -22,4 +22,8 @@ Every C++ program must contain a starting point. By the C++ standard, the starti
 int main()
 ```
 
-By ___convention___, the return value of main is `0` (zero) if the program was successful and non-zero on erros.
+By ___convention___, the return value of main is `0` (zero) if the program was successful and non-zero on errors.
+
+![[Cpp classes \| C++ classes]]
+
+---
