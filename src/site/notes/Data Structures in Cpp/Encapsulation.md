@@ -19,5 +19,5 @@ The protection level determines the access that "client code" has to the member 
 
 ### Encapsulation \# 2
 
-In C++, the [[Data Structures in Cpp/C++ Header File (.h)\| interface]] (.h file) to the class is defined separately from the **implementation** (.cpp file).
+In C++, the [[Data Structures in Cpp/C++ Header File (.h)\| interface]] (.h file) to the class is defined separately from the [[ C++ Implementation File (.cpp)\| implementation]] (.cpp file).
 
