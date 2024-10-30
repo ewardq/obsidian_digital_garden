@@ -43,3 +43,20 @@ int main(){                  // Staring point of all C++ programs
 	return 0;
 }
 ```
+
+The output of this program is:
+
+```bash
+user@host:~$ cd cpp-class
+
+user@host:~/cpp-class$ make
+clang++ -std=c++ly -stdlib=libc++ -O0 -pedantic -Wall -Werror -Wfatal-errors -Wextra -Who-unused-parameter -Who-unused-variable -MMD -MP -g -c main.cpp -o .objs/main.o
+clang++ .objs/main.o .objs/Cube.o -std=c++ly -stdlib=lib++ -o main
+
+user@host:~/cpp-class$ ./main
+Volume: 42.1442
+
+user@host:~/cpp-class$
+```
+
+___Success!!___
