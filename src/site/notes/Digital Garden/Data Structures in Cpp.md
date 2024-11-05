@@ -11,8 +11,8 @@
 
 The **type** of a variable defines the contents of the variable. Every **type** es either:
 
-- [[Data Structures in Cpp/Primitive type\|Primitive type]]
-- [[Data Structures in Cpp/User-defined type\|User-defined type]]
+- [[Data Structures in Cpp/Writing a C++ Program/Primitive type\|Primitive type]]
+- [[Data Structures in Cpp/Writing a C++ Program/User-defined type\|User-defined type]]
 
 ### C++ Programs
 
@@ -24,8 +24,9 @@ int main()
 
 By ___convention___, the return value of main is `0` (zero) if the program was successful and non-zero on errors.
 
-[[Data Structures in Cpp/C++ classes\|C++ classes]]
-[[Data Structures in Cpp/C++ standard library (std)\|C++ standard library (std)]]
+[[Data Structures in Cpp/Writing a C++ Program/C++ classes\|C++ classes]]
+[[Data Structures in Cpp/Writing a C++ Program/C++ standard library (std)\|C++ standard library (std)]]
 
 
 ---
+[[Data Structures in Cpp/Object-Oriented Data Structures in C++\|Object-Oriented Data Structures in C++]]
