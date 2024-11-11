@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/x-bucharest-connecting-to-postgres/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/x-bucharest-connecting-to-postgres/"}
 ---
 
 ---

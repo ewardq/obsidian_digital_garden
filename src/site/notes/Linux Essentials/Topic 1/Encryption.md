@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/encryption/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/encryption/"}
 ---
 
 ---

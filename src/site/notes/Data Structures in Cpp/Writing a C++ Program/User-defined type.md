@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/user-defined-type/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/user-defined-type/"}
 ---
 
 ---

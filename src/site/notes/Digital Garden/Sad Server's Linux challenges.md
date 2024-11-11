@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/sad-server-s-linux-challenges/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/digital-garden/sad-server-s-linux-challenges/"}
 ---
 
 ---
@@ -44,3 +44,5 @@ Here I'm archiving my solutions to the [SadServers - Linux & DevOps Troubleshoot
 
 [[Sad Servers repo/Solutions/Tokyo - Can't serve web file\|Tokyo - Can't serve web file]]
 - #bash #curl #ping #ss #iptables #chmod
+
+[[Sad Servers repo/Solutions/Unimak Iland - Fun with Mr Jason\|Unimak Iland - Fun with Mr Jason]]

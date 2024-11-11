@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/topic-2-finding-your-way-on-a-linux-system/","pinned":"true","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/topic-2-finding-your-way-on-a-linux-system/","pinned":"true"}
 ---
 
 ---

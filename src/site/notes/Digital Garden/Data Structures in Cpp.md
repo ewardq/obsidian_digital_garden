@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/data-structures-in-cpp/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/digital-garden/data-structures-in-cpp/"}
 ---
 
 ---

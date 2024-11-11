@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/server-programs/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/server-programs/"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/files-and-directories/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/files-and-directories/"}
 ---
 
 ---
