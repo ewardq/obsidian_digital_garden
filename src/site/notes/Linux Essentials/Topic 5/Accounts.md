@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/accounts/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/accounts/"}
 ---
 
 ---

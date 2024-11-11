@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/topic-3-the-power-of-the-command-line/","pinned":"true","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/topic-3-the-power-of-the-command-line/","pinned":"true"}
 ---
 
 ---

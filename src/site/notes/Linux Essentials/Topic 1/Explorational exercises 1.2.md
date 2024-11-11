@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/explorational-exercises-1-2/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/explorational-exercises-1-2/"}
 ---
 
 ---

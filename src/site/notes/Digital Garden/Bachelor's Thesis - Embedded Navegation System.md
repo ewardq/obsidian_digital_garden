@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/bachelor-s-thesis-embedded-navegation-system/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/digital-garden/bachelor-s-thesis-embedded-navegation-system/"}
 ---
 
 ---
