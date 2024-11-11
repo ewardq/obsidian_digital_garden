@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/geneva-renew-an-ssl-certificate/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/geneva-renew-an-ssl-certificate/"}
 ---
 
 ---

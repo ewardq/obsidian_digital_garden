@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/basic-security-and-identifying-user-types/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/basic-security-and-identifying-user-types/"}
 ---
 
 ---

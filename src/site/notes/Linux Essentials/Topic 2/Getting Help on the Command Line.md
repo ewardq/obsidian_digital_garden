@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/getting-help-on-the-command-line/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/getting-help-on-the-command-line/"}
 ---
 
 ---

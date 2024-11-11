@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/switching-users-and-escalating-privilege/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/switching-users-and-escalating-privilege/"}
 ---
 
 ---
