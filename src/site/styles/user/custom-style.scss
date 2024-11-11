@@ -4,14 +4,17 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
     --font-text-theme: Georgia, serif;
+
     --font-weight: 100;
-      h1 {
-       color: green;
-      }
-      h2 {
-        color: green;
-       }
-       h3 {
-        color: green;
-       }
+
 }
+
+h1 {
+  color: green;
+ }
+ h2 {
+   color: green;
+  }
+  h3 {
+   color: green;
+  }
