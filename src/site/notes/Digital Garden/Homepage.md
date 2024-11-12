@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":"true","contentClasses":"table-border.css","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":"true","contentClasses":"table-border","tags":["gardenEntry"]}
 ---
 
 # Eduardo Martínez Piña
