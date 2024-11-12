@@ -3,7 +3,7 @@
 ---
 
 ---
-## I made it!
+## I made it!! 🐧🎈
 
 ![Linux-certificate.png](/img/user/Digital%20Garden/Icons-and-images/Linux-certificate.png)
 
