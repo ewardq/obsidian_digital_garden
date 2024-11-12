@@ -5,7 +5,7 @@
 ---
 In this machine, **the output is determined only by the present active state** of the state machine and not by any input events.
 
-- There are no output during state transition.
+- There are no <font color="#50E3C2">Output</font> during state transition.
 
 ![Moore machine.png](/img/user/Embedded%20Sys%20Design%20using%20UML/Reference%20images/Moore%20machine.png)
 - <font color="#50E3C2">Output</font> is represented inside the state

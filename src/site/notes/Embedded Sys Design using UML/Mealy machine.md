@@ -27,3 +27,7 @@ The <font color="#4D93D9">OFF</font> button can turn off the lamp from any state
 The Mealy machine can also be represented in table form. Here, the present state can be used as a starting point to analyze what will happen when an input is introduced, both the next state and the output can be known from there.
 
 ![Pasted image 20241112103750.png](/img/user/Embedded%20Sys%20Design%20using%20UML/Reference%20images/Pasted%20image%2020241112103750.png)
+
+- When the state machine is in "OFF" state and if:
+	- Input event "<font color="#4D93D9">ON</font>" is received, then the state machine produces the output "<font color="#D86DCD">Dim the light</font>" and makes a transition to "Dim" state.
+	- Input event "<font color="#4D93D9">OFF</font>" is received, the event is ignored.
