@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":"true","contentClasses":"table-border","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":"true","tags":["gardenEntry"]}
 ---
 
 # Eduardo Martínez Piña
@@ -15,6 +15,5 @@ This is an ongoing project to document and store my personal projects and notes.
 |                            ![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)                             |                                            ![Tux2_green.png](/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png)                                             | ![Algoritmo-seguidor](https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png) |
 |                [[Digital Garden/Data Structures in Cpp\|Data Structures in C++]]                 |                                                                                                            |                                     [[Digital Garden/Embedded System Design using UML State Machines\|Embedded System Design using UML State Machines]]                                      |
 |                               ![Cpp modified.png](/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)                               |                                                                                                            |                                                         ![UML.png](/img/user/Digital%20Garden/Icons-and-images/UML.png)                                                         |
-
 
 ---
