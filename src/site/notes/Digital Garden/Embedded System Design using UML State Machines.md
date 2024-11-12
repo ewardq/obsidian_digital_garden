@@ -35,7 +35,7 @@ A state machine also produces an output. The output produced depends on the curr
 #### Types of state machines
 
 -  [[Embedded Sys Design using UML/Mealy machine\|Mealy machine]]
-- [[Moore machine\|Moore machine]]
+- [[Embedded Sys Design using UML/Moore machine\|Moore machine]]
 - [[Harel state charts\|Harel state charts]]
 - [[UML state machines\|UML state machines]]
 
