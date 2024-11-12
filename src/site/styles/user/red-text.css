@@ -1,7 +1,5 @@
 /* Updated for Obsidian 0.9.22 and up */
 
 body {
-    h1 {
-        color: green;
-       }
+    --text-normal: lighter;
   }
