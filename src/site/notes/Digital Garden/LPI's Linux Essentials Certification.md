@@ -3,6 +3,10 @@
 ---
 
 ---
+## I made it!! 🐧🎈
+
+![Linux-certificate.png](/img/user/Digital%20Garden/Icons-and-images/Linux-certificate.png)
+
 Here I store all the notes I took in order to take the [Linux Professional Institute (LPI)](https://www.lpi.org/)
 Linux Essentials Certification. Feel free to look around and see if you find something useful for you!
 
