@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/dig/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/dig/","dgPassFrontmatter":true}
 ---
 
 ---

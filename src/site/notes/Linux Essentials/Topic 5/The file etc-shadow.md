@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/the-file-etc-shadow/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/the-file-etc-shadow/","dgPassFrontmatter":true}
 ---
 
 ---

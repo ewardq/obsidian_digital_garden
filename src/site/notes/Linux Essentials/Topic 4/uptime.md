@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/uptime/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/uptime/","dgPassFrontmatter":true}
 ---
 
 ---

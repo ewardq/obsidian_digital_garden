@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/symbolic-mode/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/symbolic-mode/","dgPassFrontmatter":true}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/user-and-group-administration/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/user-and-group-administration/","dgPassFrontmatter":true}
 ---
 
 ---

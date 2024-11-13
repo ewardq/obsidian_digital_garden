@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/chown/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/chown/","dgPassFrontmatter":true}
 ---
 
 ---

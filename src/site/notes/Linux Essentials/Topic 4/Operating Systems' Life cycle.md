@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/operating-systems-life-cycle/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/operating-systems-life-cycle/","dgPassFrontmatter":true}
 ---
 
 ---

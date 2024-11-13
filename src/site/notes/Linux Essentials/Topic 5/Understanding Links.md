@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/understanding-links/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/understanding-links/","dgPassFrontmatter":true}
 ---
 
 ---

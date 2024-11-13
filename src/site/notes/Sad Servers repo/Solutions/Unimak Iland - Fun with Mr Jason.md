@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/unimak-iland-fun-with-mr-jason/"}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/unimak-iland-fun-with-mr-jason/","dgPassFrontmatter":true}
 ---
 
 ---

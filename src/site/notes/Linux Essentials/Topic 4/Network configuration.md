@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/network-configuration/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/network-configuration/","dgPassFrontmatter":true}
 ---
 
 ---

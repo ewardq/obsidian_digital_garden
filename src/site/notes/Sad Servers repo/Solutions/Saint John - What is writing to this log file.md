@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saint-john-what-is-writing-to-this-log-file/"}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saint-john-what-is-writing-to-this-log-file/","dgPassFrontmatter":true}
 ---
 
 ---

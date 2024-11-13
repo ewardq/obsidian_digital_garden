@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/traceroute-traceroute6/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/traceroute-traceroute6/","dgPassFrontmatter":true}
 ---
 
 ---

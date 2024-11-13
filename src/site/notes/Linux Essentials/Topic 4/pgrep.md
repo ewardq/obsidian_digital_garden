@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/pgrep/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/pgrep/","dgPassFrontmatter":true}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/while-loops/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/while-loops/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-system-journal-systemd-journald/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/the-system-journal-systemd-journald/","dgPassFrontmatter":true}
 ---
 
 ---

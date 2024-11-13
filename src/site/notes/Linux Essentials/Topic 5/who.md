@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/who/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/who/","dgPassFrontmatter":true}
 ---
 
 ---

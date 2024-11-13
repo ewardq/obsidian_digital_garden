@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/bata-find-in-proc/"}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/bata-find-in-proc/","dgPassFrontmatter":true}
 ---
 
 ---

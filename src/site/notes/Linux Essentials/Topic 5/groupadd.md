@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/groupadd/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/groupadd/","dgPassFrontmatter":true}
 ---
 
 ---

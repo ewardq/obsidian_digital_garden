@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/special-permissions/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/special-permissions/","dgPassFrontmatter":true}
 ---
 
 ---
