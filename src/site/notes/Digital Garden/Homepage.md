@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":"true","contentClasses":"markdown-preview-view list-cards cards-cols-3 cards-cover cards-cover-no-border","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry"]}
 ---
+
 
 # Eduardo Martínez Piña
 ---
@@ -16,7 +17,7 @@ This is an ongoing project to document and store my personal projects and notes.
 |                [[Digital Garden/Data Structures in Cpp\|Data Structures in C++]]                 |                                                                                                            |                                     [[Digital Garden/Embedded System Design using UML State Machines\|Embedded System Design using UML State Machines]]                                      |
 |                               ![Cpp modified.png](/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)                               |                                                                                                            |                                                         ![UML.png](/img/user/Digital%20Garden/Icons-and-images/UML.png)                                                         |
 
- - ![[SadServers-icon-2.png \|SadServers-icon-2.png ]]
+ - ![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)
 	 -  [[Digital Garden/Sad Server's Linux challenges\|Sad Server's Linux challenges]]  
 	 - Here's some tutorials I've made about Sad Servers' **DevOps & Linux** challenges!
 - ![Tux2_green.png](/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png)   
@@ -29,7 +30,7 @@ This is an ongoing project to document and store my personal projects and notes.
 
 | Cover                      | Title                                    | Notes                                                                                                      | Tags |
 | -------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---- |
-| ![[Tux2_green.png \| 200]] | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]] | Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified!** |      |
+| ![Tux2_green.png](/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png) | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]] | Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified!** |      |
 { .block-language-dataview}
 
 ---
