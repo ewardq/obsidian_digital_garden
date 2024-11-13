@@ -16,13 +16,19 @@ This is an ongoing project to document and store my personal projects and notes.
 |                [[Digital Garden/Data Structures in Cpp\|Data Structures in C++]]                 |                                                                                                            |                                     [[Digital Garden/Embedded System Design using UML State Machines\|Embedded System Design using UML State Machines]]                                      |
 |                               ![Cpp modified.png](/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)                               |                                                                                                            |                                                         ![UML.png](/img/user/Digital%20Garden/Icons-and-images/UML.png)                                                         |
 
+ - ![[SadServers-icon-2.png \| 200]]
+	 -  [[Digital Garden/Sad Server's Linux challenges\|Sad Server's Linux challenges]]  
+	 - Here's some tutorials I've made about Sad Servers' **DevOps & Linux** challenges!
+- ![[Tux2_green.png \| 200]]   
+	- [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]
+	-  Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified!**
+- 
 
-| Cover                                                                                                                        | Title     | Notes | Tags |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------- | ----- | ---- |
-| <br>![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)<br><br>                                                                                       | SadServer | Note: | #tag |
-| ![Algoritmo-seguidor](https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png) | Thesis    | Note: | #tag |
-|                                                                                                                              |           |       |      |
 
+
+| Cover                      | Title                                    | Notes                                                                                                    | Tags |
+| -------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---- |
+| ![[Tux2_green.png \| 200]] | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]] | Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified! |      |
 
 
 ---
