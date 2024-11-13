@@ -17,7 +17,12 @@ This is an ongoing project to document and store my personal projects and notes.
 |                               ![Cpp modified.png](/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)                               |                                                                                                            |                                                         ![UML.png](/img/user/Digital%20Garden/Icons-and-images/UML.png)                                                         |
 
 
-![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)
+| Cover                                                                                                                        | Title     | Notes | Tags |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------- | ----- | ---- |
+| <br>![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)<br><br>                                                                                       | SadServer | Note: | #tag |
+| ![Algoritmo-seguidor](https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png) | Thesis    | Note: | #tag |
+|                                                                                                                              |           |       |      |
+
 
 
 ---
