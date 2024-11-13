@@ -25,10 +25,11 @@ This is an ongoing project to document and store my personal projects and notes.
 - 
 
 
+-
 
-| Cover                      | Title                                    | Notes                                                                                                    | Tags |
-| -------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---- |
-| ![[Tux2_green.png \| 200]] | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]] | Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified! |      |
-
+| Cover                      | Title                                    | Notes                                                                                                      | Tags |
+| -------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---- |
+| ![[Tux2_green.png \| 200]] | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]] | Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified!** |      |
+{ .block-language-dataview}
 
 ---
