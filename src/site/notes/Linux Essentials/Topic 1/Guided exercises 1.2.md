@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/guided-exercises-1-2/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/guided-exercises-1-2/","dgPassFrontmatter":true}
 ---
 
 ---

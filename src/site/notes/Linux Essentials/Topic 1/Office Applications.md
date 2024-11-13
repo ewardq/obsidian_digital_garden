@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/office-applications/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/office-applications/","dgPassFrontmatter":true}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/lscpu/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/lscpu/","dgPassFrontmatter":true}
 ---
 
 ---

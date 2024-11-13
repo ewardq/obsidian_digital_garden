@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/grep/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/grep/","dgPassFrontmatter":true}
 ---
 
 ---

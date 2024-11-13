@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/how-is-the-linux-software-distributed/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/how-is-the-linux-software-distributed/","dgPassFrontmatter":true}
 ---
 
 ---

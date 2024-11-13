@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/embedded-sys-design-using-uml/moore-machine/"}
+{"dg-publish":true,"permalink":"/embedded-sys-design-using-uml/moore-machine/","dgPassFrontmatter":true}
 ---
 
 ---

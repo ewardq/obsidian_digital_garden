@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/command-behavior-types/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/command-behavior-types/","dgPassFrontmatter":true}
 ---
 
 ---

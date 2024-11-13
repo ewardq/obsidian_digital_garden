@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-pinned":true,"dg-home":true,"cssclasses":["card","list-cards"],"permalink":"/digital-garden/homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -13,12 +13,12 @@ This is an ongoing project to document and store my personal projects and notes.
 
 | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]                                                                   | [[Digital Garden/Sad Server's Linux challenges\|Sad Server's Linux challenges]] | [[Digital Garden/Data Structures in Cpp\|Data Structures in C++]] |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------- |
-| ![[Tux2_green.png \|Tux2_green.png ]]                                                                                       | ![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)        | ![Cpp modified.png](/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)                              |
+| ![Tux2_green.png](/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png)                                                                                        | ![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)        | ![Cpp modified.png](/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)                              |
 | Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified!** |                                   |                                                    |
 
 
 ### [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]
-![[Tux2_green.png \|200]]
+![Tux2_green.png](/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png)
 
 |                                                                                                                              | Section                                             | Description                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ This is an ongoing project to document and store my personal projects and notes.
 
 ---
 
- - ![[SadServers-icon-2.png]]
+ - ![SadServers-icon-2.png](/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)
 	 -  [[Digital Garden/Sad Server's Linux challenges\|Sad Server's Linux challenges]]  
 	 - Here's some tutorials I've made about Sad Servers' **DevOps & Linux** challenges!
 - ![Tux2_green.png](/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png)   

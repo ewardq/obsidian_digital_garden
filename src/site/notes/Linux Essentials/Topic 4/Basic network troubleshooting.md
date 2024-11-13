@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/basic-network-troubleshooting/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/basic-network-troubleshooting/","dgPassFrontmatter":true}
 ---
 
 ---

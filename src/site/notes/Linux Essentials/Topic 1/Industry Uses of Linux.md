@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/industry-uses-of-linux/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/industry-uses-of-linux/","dgPassFrontmatter":true}
 ---
 
 ---

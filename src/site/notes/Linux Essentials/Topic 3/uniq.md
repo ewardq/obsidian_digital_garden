@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/uniq/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/uniq/","dgPassFrontmatter":true}
 ---
 
 ---

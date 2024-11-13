@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/topic-1-the-linux-community-and-a-career-in-open-source/","pinned":"true"}
+{"dg-publish":true,"dg-pinned":"true","permalink":"/linux-essentials/topic-1/topic-1-the-linux-community-and-a-career-in-open-source/","pinned":"true","dgPassFrontmatter":true}
 ---
 
 ---

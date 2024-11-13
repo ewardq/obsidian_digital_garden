@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/repeated-regex/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/repeated-regex/","dgPassFrontmatter":true}
 ---
 
 ---

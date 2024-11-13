@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/shell-variables/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/shell-variables/","dgPassFrontmatter":true}
 ---
 
 ---

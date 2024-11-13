@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/tree/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/tree/","dgPassFrontmatter":true}
 ---
 
 ---

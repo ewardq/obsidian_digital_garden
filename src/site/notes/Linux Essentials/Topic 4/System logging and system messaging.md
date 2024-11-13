@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/system-logging-and-system-messaging/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/system-logging-and-system-messaging/","dgPassFrontmatter":true}
 ---
 
 ---

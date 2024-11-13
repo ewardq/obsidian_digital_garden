@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/lpi-s-linux-essentials-certification/"}
+{"dg-publish":true,"dg-note-icon":2,"cssclass":["markdown-preview-view"],"permalink":"/digital-garden/lpi-s-linux-essentials-certification/","dgPassFrontmatter":true}
 ---
 
 ---

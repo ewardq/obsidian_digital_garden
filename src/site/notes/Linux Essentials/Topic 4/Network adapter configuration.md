@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/network-adapter-configuration/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/network-adapter-configuration/","dgPassFrontmatter":true}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/mkdir/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/mkdir/","dgPassFrontmatter":true}
 ---
 
 ---

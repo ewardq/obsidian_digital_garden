@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/archiving-tools/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/archiving-tools/","dgPassFrontmatter":true}
 ---
 
 ---

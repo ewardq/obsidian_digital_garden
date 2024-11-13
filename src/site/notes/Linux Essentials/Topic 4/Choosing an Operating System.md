@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/choosing-an-operating-system/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/choosing-an-operating-system/","dgPassFrontmatter":true}
 ---
 
 ---

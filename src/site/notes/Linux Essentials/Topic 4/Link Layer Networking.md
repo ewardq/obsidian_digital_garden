@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/link-layer-networking/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/link-layer-networking/","dgPassFrontmatter":true}
 ---
 
 ---

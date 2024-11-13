@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ifconfig/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/ifconfig/","dgPassFrontmatter":true}
 ---
 
 ---

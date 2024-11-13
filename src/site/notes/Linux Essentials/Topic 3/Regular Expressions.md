@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/regular-expressions/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/regular-expressions/","dgPassFrontmatter":true}
 ---
 
 ---

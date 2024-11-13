@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/sad-server-s-linux-challenges/"}
+{"dg-publish":true,"dg-note-icon":"2","tags":null,"permalink":"/digital-garden/sad-server-s-linux-challenges/","dgPassFrontmatter":true}
 ---
 
 ---

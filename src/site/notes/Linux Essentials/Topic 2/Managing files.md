@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/managing-files/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/managing-files/","dgPassFrontmatter":true}
 ---
 
 ---

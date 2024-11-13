@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/pstree/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/pstree/","dgPassFrontmatter":true}
 ---
 
 ---

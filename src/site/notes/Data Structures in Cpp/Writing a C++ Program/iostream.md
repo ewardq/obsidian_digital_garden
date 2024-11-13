@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/iostream/"}
+{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/iostream/","dgPassFrontmatter":true}
 ---
 
 ---

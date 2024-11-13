@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/logging-with-the-syslog-daemon/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/logging-with-the-syslog-daemon/","dgPassFrontmatter":true}
 ---
 
 ---

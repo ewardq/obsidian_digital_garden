@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-3/tar/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-3/tar/","dgPassFrontmatter":true}
 ---
 
 ---

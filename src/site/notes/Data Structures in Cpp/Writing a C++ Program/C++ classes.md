@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/c-classes/"}
+{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/c-classes/","dgPassFrontmatter":true}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/globbing/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/globbing/","dgPassFrontmatter":true}
 ---
 
 ---

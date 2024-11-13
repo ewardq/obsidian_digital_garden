@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/i-pv6-networking/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/i-pv6-networking/","dgPassFrontmatter":true}
 ---
 
 ---

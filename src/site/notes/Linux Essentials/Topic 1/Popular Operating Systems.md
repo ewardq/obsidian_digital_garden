@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/popular-operating-systems/"}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/popular-operating-systems/","dgPassFrontmatter":true}
 ---
 
 ---
