@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/sockets/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/sockets/"}
 ---
 
 ---

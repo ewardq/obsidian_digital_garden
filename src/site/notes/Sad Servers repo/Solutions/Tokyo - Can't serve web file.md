@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/tokyo-can-t-serve-web-file/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/tokyo-can-t-serve-web-file/"}
 ---
 
 ---

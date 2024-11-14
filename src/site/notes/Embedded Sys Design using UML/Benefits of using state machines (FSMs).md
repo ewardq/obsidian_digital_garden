@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/embedded-sys-design-using-uml/benefits-of-using-state-machines-fs-ms/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/embedded-sys-design-using-uml/benefits-of-using-state-machines-fs-ms/"}
 ---
 
 ---

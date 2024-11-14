@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":"true","permalink":"/linux-essentials/topic-5/topic-5-security-and-file-permissions/","pinned":"true","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/topic-5-security-and-file-permissions/","pinned":"true"}
 ---
 
 ---

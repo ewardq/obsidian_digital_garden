@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/creating-users-and-groups/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/creating-users-and-groups/"}
 ---
 
 ---

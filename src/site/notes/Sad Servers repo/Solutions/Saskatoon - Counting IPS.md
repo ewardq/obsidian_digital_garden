@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saskatoon-counting-ips/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saskatoon-counting-ips/"}
 ---
 
 ---

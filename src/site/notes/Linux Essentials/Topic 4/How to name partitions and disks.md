@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-4/how-to-name-partitions-and-disks/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-4/how-to-name-partitions-and-disks/"}
 ---
 
 ---

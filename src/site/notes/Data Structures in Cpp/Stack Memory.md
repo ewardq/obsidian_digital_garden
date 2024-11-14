@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structures-in-cpp/stack-memory/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/data-structures-in-cpp/stack-memory/"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/lhasa-easy-math/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/lhasa-easy-math/"}
 ---
 
 ---

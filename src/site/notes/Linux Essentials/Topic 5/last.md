@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-5/last/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-5/last/"}
 ---
 
 ---

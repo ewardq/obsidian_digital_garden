@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/linux-user-interfaces/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/linux-user-interfaces/"}
 ---
 
 ---

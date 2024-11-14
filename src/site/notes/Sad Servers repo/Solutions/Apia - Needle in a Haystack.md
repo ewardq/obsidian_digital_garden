@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/apia-needle-in-a-haystack/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/apia-needle-in-a-haystack/"}
 ---
 
 ---

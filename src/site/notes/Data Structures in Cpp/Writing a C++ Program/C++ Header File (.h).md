@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/c-header-file-h/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/c-header-file-h/"}
 ---
 
 ---

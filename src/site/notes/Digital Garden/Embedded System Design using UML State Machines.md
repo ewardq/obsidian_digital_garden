@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/embedded-system-design-using-uml-state-machines/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/digital-garden/embedded-system-design-using-uml-state-machines/"}
 ---
 
 ---

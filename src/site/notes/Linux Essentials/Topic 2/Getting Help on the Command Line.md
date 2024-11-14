@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-2/getting-help-on-the-command-line/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-2/getting-help-on-the-command-line/"}
 ---
 
 ---

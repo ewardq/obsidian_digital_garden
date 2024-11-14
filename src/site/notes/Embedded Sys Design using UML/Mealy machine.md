@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/embedded-sys-design-using-uml/mealy-machine/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/embedded-sys-design-using-uml/mealy-machine/"}
 ---
 
 ---

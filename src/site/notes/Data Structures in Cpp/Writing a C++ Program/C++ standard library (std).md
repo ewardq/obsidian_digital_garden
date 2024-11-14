@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/c-standard-library-std/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/data-structures-in-cpp/writing-a-c-program/c-standard-library-std/"}
 ---
 
 ---

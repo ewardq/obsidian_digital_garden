@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-structures-in-cpp/object-oriented-data-structures-in-c/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/data-structures-in-cpp/object-oriented-data-structures-in-c/"}
 ---
 
 ---

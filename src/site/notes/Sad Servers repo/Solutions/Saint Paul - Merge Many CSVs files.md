@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saint-paul-merge-many-cs-vs-files/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/saint-paul-merge-many-cs-vs-files/"}
 ---
 
 ---

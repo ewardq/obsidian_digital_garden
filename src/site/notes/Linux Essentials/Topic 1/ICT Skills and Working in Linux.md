@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-essentials/topic-1/ict-skills-and-working-in-linux/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/linux-essentials/topic-1/ict-skills-and-working-in-linux/"}
 ---
 
 ---
