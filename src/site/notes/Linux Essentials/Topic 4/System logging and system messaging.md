@@ -14,7 +14,7 @@ Without logging, searching for an event that happened on a server would give sys
 
 
 ---
-Traditionally, system messages have been managed by the standard logging facility — syslog — or any of its derivatives — syslog-ng or [[Linux Essentials/Topic 4/rsyslog\|rsyslog]]. The logging [[daemon\|daemon]] collects messages from other services and programs and stores them in log files, typically under `/var/log`. However, some services take care of their own logs (like Apache HTTPD web servers). Likewise, the Linux kernel uses an in-memory ring buffer for storing its log messages.
+Traditionally, system messages have been managed by the standard logging facility — syslog — or any of its derivatives — syslog-ng or [[Linux Essentials/Topic 4/rsyslog\|rsyslog]]. The logging [[Future Projects/Interview questions/daemon\|daemon]] collects messages from other services and programs and stores them in log files, typically under `/var/log`. However, some services take care of their own logs (like Apache HTTPD web servers). Likewise, the Linux kernel uses an in-memory ring buffer for storing its log messages.
 
 ### Log files in `/var/log`
 

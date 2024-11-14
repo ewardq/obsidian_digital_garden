@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/x-jakarta-it-s-always-dns/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/x-jakarta-it-s-always-dns/"}
 ---
 
 ---

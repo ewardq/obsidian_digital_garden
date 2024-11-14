@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/gitega-find-the-bad-git-commit/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sad-servers-repo/solutions/gitega-find-the-bad-git-commit/"}
 ---
 
 ---
