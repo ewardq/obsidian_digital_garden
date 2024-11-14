@@ -9,6 +9,16 @@ body {
 
     --background-modifier-border: none;
 
+    .centerImg img {
+      display: block;
+      margin: 0px auto;
+    }
+
+}
+
+.centerImg img {
+  display: block;
+  margin: 0px auto;
 }
 
 .markdown-preview-view .internal-embed img {
@@ -33,3 +43,4 @@ body {
     right:0;
     bottom:0;
     background:var(--background-primary);}
+
