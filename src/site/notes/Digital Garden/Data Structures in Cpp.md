@@ -5,7 +5,7 @@
 ---
  C++ is a **strongly typed** programming language where every variable has a type, name, value and location in memory.
  
-<span class='centerImg'> ![[Strongly-typed.png \| 400]] </span>
+<span class='centerImg'> ![Strongly-typed.png](/img/user/Data%20Structures%20in%20Cpp/Reference%20images/Strongly-typed.png) </span>
 
 # C++ Types
 
