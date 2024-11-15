@@ -6,15 +6,17 @@
 # Eduardo Martínez Piña
 ---
 #### 👋 Hi there!
-I'm currently an embedded software test engineer aspiring to take the leap into developing professionally. I focus mainly on Linux, Python, C++, Embedded Systems, Operating Systems, the Cloud and more!
+I'm an embedded software test engineer at Ford aspiring to take the leap into developing professionally! There, from the huge system of subsystems that is the Automotive architecture at Ford I've learned a lot of tools, design strategies and troubleshooting techniques regarding embedded systems.
 
-This is an ongoing project to document and store my personal projects and notes. Here are some of those:
+Day by day I make an effort to learn more about Linux, Python, C++ and embedded software in general, so I've been documenting my progress and knowledge with the hope that my explanations may be useful to someone else (:
+
+Here are some of those resources:
 
 | Cover                                                                                                         | Title                                                                                          | Description                                                                                                    | Links   | Tags                     |
 | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------- | ------------------------ |
 | ![coverimg\|100](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png)  | [[Digital Garden/Sad Server's Linux challenges\|Sad Server's Linux challenges]]                | Here's some tutorials I've made about Sad Servers' **DevOps & Linux** challenges!                              |         | #bash #git               |
-| ![coverimg\|75](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png)         | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]  | Here you can find notes and thoughts I've created in my road to become a **Linux Professional Certified!**     |         | #bash #certification     |
-| ![coverimg\|100](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)     | [[Digital Garden/Data Structures in Cpp\|Data Structures in C++]]                              | This is the section where you'll find my notes about **data structures and intricacies of the C++ language**.  |         | #cpp #dataStructures     |
+| ![coverimg\|75](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png)         | [[Digital Garden/LPI's Linux Essentials Certification\|LPI's Linux Essentials Certification]]  | Here you can find notes and thoughts I've created in my road to become a **Certified Linux Professional!**     |         | #bash #certification     |
+| ![coverimg\|100](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png)     | [[Digital Garden/Data Structures in Cpp\|Data Structures in C++]]                              | This is the section where you'll find my notes about **data structures and intricacies of the C++ language.**  |         | #cpp #dataStructures     |
 | ![coverimg\|100](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/UML.png)                | [[Digital Garden/Embedded System Design using UML State Machines\|Embedded System Design using UML State Machines]]                             | How to design an embedded system and then implement it in code? **Find out!**  |         | #cpp     |
 | ![coverimg\|100](https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png)                | [[Digital Garden/Bachelor's Thesis - Embedded Navegation System\|Bachelor's Thesis - Embedded Navegation System]]                            | This is the **embedded project** I developed over the course of a year to get my Bachelor's degree.  |         | #cpp  #controlTheory  |
 
