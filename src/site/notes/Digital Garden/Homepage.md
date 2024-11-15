@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","pinned":true,"tags":["gardenEntry"]}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2024-11-04T08:14:15+06:00","permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
@@ -28,3 +28,15 @@ This is an ongoing project to document and store my personal projects and notes.
 - 
 
 ---
+
+
+## From the Forge
+
+Being a programmer, I often tinker and build things primarily for personal use. Here are some you might find useful.
+| Cover                                                            | Title                                                                    | Description                                                | Links                                                                                                                                                                                                                        | Tags                     |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Forge/Boox Text Note Converter\|Boox Text Note Converter]] | A converter for Boox text notes.                           | <div><a href="https://boox-text-note-converter.utsob.me/"><i icon-name="external-link"></i></a><a style="margin-left: 10px;" href="https://github.com/uroybd/boox-text-note-converter/"><i icon-name="github"></i></a></div> | #tool #boox #converter   |
+| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Forge/CyberEnsō\|CyberEnsō]]                               | Ensō on screen.                                            | <div><a href="https://enso.utsob.me"><i icon-name="external-link"></i></a><a style="margin-left: 10px;" href="https://github.com/uroybd/cyberenso"><i icon-name="github"></i></a></div>                                      | #generative-art #tool    |
+| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Forge/EpubPress on the Web\|EpubPress on the Web]]         | An webapp to create EPUB from webpages using EpubPress API | <div><a href="https://epubpress.utsob.me/"><i icon-name="external-link"></i></a><a style="margin-left: 10px;" href="https://github.com/uroybd/epubpress-web"><i icon-name="github"></i></a></div>                            | #tool #epub #book #ebook |
+
+{ .block-language-dataview}
