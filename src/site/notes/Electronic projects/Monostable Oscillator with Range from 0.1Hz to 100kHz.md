@@ -20,7 +20,7 @@ This oscillator has **6 frequency ranges**.
 
 In order to get this ranges, we start from the generic 555 oscillator:
 
-![Pasted image 20241123192249.png](/img/user/Pasted%20image%2020241123192249.png)
+![Pasted image 20241123192249.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241123192249.png)
 
 Here, the individual times required to complete one charge and discharge cycle of the output (VO1) is given by the resistors **Ra**, **Rb** and the capacitor **C1** as follows:
 
@@ -35,7 +35,17 @@ $$ \begin{align*} &R_{a} = 50\Omega
 \end{align*} 
 $$
 
+### Here's the schematic
 
-Here's the schematic
+![Pasted image 20241123201652.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241123201652.png)
 
-Here's the completed PCB
+Where the frequency range is determined by a equivalent capacitor (**Ceq**), which is connected through a selector jumper.
+
+![Pasted image 20241123202132.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241123202132.png)
+
+### Here's the completed PCB
+
+|Front side     |   Back side  |
+| --- | --- |
+|   ![coverimg](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_front.jpg)  |   ![coverimg](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_back.jpg)  |
+
