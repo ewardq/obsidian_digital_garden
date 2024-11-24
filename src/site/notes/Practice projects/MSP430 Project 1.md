@@ -3,7 +3,13 @@
 ---
 
 ---
-### Make use of pins as digital inputs and outputs.
+## Make use of pins as digital inputs and outputs.
+
+### **What are GPIO?**
+
+**G**eneral **P**ourpuse **I**nput/**O**utput refers to a set of pins on your microcontroller's main board. They are called that because they can be used for pretty much anything that uses digital signals as outputs or inputs.
+
+As an example, let's first use two of this pins to turn ON and OFF two corresponding LEDs.
 
 First, let's turn on and off two LEDs. The first LED should be ON when the second LED is OFF. There should also be a variable to monitor LED status.
 
@@ -32,40 +38,9 @@ void main(){
 
 ---
 
-Now, let's create a routine that turns on each LED in sequence so we can make sure that no LED is dead.
+For this circuit, we'll use 8 LEDs and 8 switches with the following configuration:
 
-``` c++
-void initialize_routine(){
-    // This routine turns all the LEDs ON one by one.
-    // ----------------------------------------------
-    volatile unsigned int i = 1;   // Variable for timer
-    P1OUT = 0x00;                  // Initialize all port 1 bits to LOW
-    
-    P1OUT ^= BIT0;                 // Toggle bit to ON
-    for (i=50000; i>0; i--);       // Wait
-
-    P1OUT ^= BIT1;
-    for (i=50000; i>0; i--);
-
-    P1OUT ^= BIT2;
-    for (i=50000; i>0; i--);
-
-    P1OUT ^= BIT3;
-    for (i=50000; i>0; i--);
-
-    P1OUT ^= BIT4;
-    for (i=50000; i>0; i--);
-
-    P1OUT ^= BIT5;
-    for (i=50000; i>0; i--);
-
-    P1OUT ^= BIT6;
-    for (i=50000; i>0; i--);
-
-    P1OUT ^= BIT7;
-    for (i=50000; i>0; i--);
-}
-``` 
+![GPIO-8-row-LED.jpg](/img/user/Practice%20projects/Reference%20images/GPIO-8-row-LED.jpg)
 
 Now, we have to configure Port1 as OUTPUT and Port2 as INPUT. To achieve this, we have to configure both ports as digital IO and deactivate the additional functions from the ports.
 
@@ -100,3 +75,38 @@ int main(void){
     }
 }
 ```
+
+Additionally, let's create a routine that turns on each LED in sequence so we can make sure that no LED is dead.
+
+``` c++
+void initialize_routine(){
+    // This routine turns all the LEDs ON one by one.
+    // ----------------------------------------------
+    volatile unsigned int i = 1;   // Variable for timer
+    P1OUT = 0x00;                  // Initialize all port 1 bits to LOW
+    
+    P1OUT ^= BIT0;                 // Toggle bit to ON
+    for (i=50000; i>0; i--);       // Wait
+
+    P1OUT ^= BIT1;
+    for (i=50000; i>0; i--);
+
+    P1OUT ^= BIT2;
+    for (i=50000; i>0; i--);
+
+    P1OUT ^= BIT3;
+    for (i=50000; i>0; i--);
+
+    P1OUT ^= BIT4;
+    for (i=50000; i>0; i--);
+
+    P1OUT ^= BIT5;
+    for (i=50000; i>0; i--);
+
+    P1OUT ^= BIT6;
+    for (i=50000; i>0; i--);
+
+    P1OUT ^= BIT7;
+    for (i=50000; i>0; i--);
+}
+``` 
