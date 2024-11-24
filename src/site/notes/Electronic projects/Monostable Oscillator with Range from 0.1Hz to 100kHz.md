@@ -17,8 +17,11 @@ This oscillator has **6 frequency ranges**.
 |  100Hz - 1kHz  |     4      |
 | 1kHz - 100kHz  |     5      |
 | 10kHz - 100kHz |     6      |
+
 In order to get this ranges, we start from the generic 555 oscillator:
+
 ![Pasted image 20241123192249.png](/img/user/Pasted%20image%2020241123192249.png)
+
 Here, the individual times required to complete one charge and discharge cycle of the output (VO1) is given by the resistors **Ra**, **Rb** and the capacitor **C1** as follows:
 
 $$ \begin{align*} &t_{1} = 0.693(R_{a} + R_{b})
