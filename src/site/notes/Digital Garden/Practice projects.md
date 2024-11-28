@@ -23,7 +23,7 @@ Let's make use of each of it's features:
 | Serial UART      |                                                                                                                                                       |
 | SPI              |                                                                                                                                                       |
 | ADC              |                                                                                                                                                       |
-| I2C              |                                                                                                                                                       |
+| I2C              | [[Practice projects/MSP430 Project 3\|MSP430 Project 3]]  #Basics<br>Communicate a microcontroller with a Display.<br>_This code makes use of I2C to interface with a two row display_    |
 | GPIO Digital I/O | [[Practice projects/MSP430 Project 1\|MSP430 Project 1]]  #Basics<br>Make use of pins as digital inputs and outputs.<br>_This code reflects the input from push buttons to a row of LEDs_ |
 | PWM              | [[Practice projects/MSP430 Project 2\|MSP430 Project 2]]  #Basics<br>Make use of Pulse Width Modulation.<br>_This code regulates the brightness level of  a LED_                          |
 
