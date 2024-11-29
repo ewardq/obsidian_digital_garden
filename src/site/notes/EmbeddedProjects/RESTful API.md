@@ -10,6 +10,8 @@ It is a **web service interface** that allows devices or applications to communi
 
 ![REST-Architecture.png](/img/user/EmbeddedProjects/Reference%20images/REST-Architecture.png)
 
+> We typically use HTTP requests (GET, POST, DELETE, PUT) so clients can interact with the system.
+
 ---
 
 
