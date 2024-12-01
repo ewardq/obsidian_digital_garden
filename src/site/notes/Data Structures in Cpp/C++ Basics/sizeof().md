@@ -24,7 +24,7 @@ int main(){
 
 Output:
 
-```
+```c++
 Size of char data type = 1
 Size of short data type = 2
 Size of int data type = 4
