@@ -20,6 +20,6 @@ _Example of json object_
 }
 ```
 
-JSON is widely supported across programming languages, has a ==compact strcuture==, and is easy to parse, making it a preferred format for transmitting data in [[EmbeddedProjects/RESTful API\|RESTful API]]s.
+JSON is widely supported across programming languages, has a ==compact structure==, and is easy to parse, making it a preferred format for transmitting data in [[EmbeddedProjects/RESTful API\|RESTful API]]s.
 
  
