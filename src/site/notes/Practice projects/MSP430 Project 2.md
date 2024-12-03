@@ -27,6 +27,8 @@ Now, we'll use a single LED and a transistor to give it enough current. Given th
 
 The proposed program will start from 0% brightness (or 0% Duty Cycle), increment 1% duty cycle each 0.1 seconds until it reaches 100% brightness; then it will reset to 0% brightness and wait one second before starting this pattern again.
 
+![Project2_PWM_Algorithm.jpg](/img/user/Practice%20projects/Reference%20images/Project2_PWM_Algorithm.jpg)
+
 ```c++
 #include "msp430g2452.h"
 #include <msp430.h>
@@ -42,18 +44,14 @@ void configureClocks(){
  }
 
 void delay_us(unsigned int us){
-    while (us)
-    {
+    while (us){
         __delay_cycles(1);    // 1 for 1 Mhz set 16 for 16 MHz
         us--;
     }
 }
 
-  
-
 void delay_ms(unsigned int ms){
-    while (ms)
-    {
+    while (ms){
         __delay_cycles(1000);  // 1000 for 1MHz and 16000 for 16MHz
         ms--;
     }
