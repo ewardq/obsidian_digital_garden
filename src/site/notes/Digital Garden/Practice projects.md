@@ -20,7 +20,7 @@ Let's make use of each of it's features:
 
 | Feature          | Project description                                                                                                                                   |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Serial UART      |                                                                                                                                                       |
+| Serial UART      | [[MSP430 Project 6\|MSP430 Project 6]]  #Basics<br><br>                                                                                                                 |
 | SPI              |                                                                                                                                                       |
 | ADC              |                                                                                                                                                       |
 | I2C              | [[Practice projects/MSP430 Project 3\|MSP430 Project 3]]  #Basics<br>Communicate a microcontroller with a Display.<br>_This code makes use of I2C to interface with a two row display_    |
