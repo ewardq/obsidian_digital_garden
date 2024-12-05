@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/electronic-projects/monostable-oscillator-with-range-from-0-1-hz-to-100k-hz/"}
+{"dg-publish":true,"permalink":"/electronic-projects/monostable-oscillator-with-range-from-0-1-hz-to-100k-hz/","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons"}
 ---
 
 ---
@@ -59,7 +59,9 @@ $$ \begin{align*} &R_{a} = 50\Omega
 $$
 And from there we need a second resistor that has a minimum value so it won't ever reach the value of zero ohms and add a variable resistor so we can go from the minimum frequency and the maximum frequency.
 
+<center>
 ![Pasted image 20241205172239.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241205172239.png)
+</center>
 
 From here, we'll calculate each condenser so it matches the frequency range to each resistor.
 
@@ -73,7 +75,9 @@ Where the frequency range is determined by a equivalent capacitor (**Ceq**), whi
 # Here's the completed PCB
 ---
 
-| Front side                                                                                            | Back side                                                                                            |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![coverimg](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_front.jpg) | ![coverimg](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_back.jpg) |
+| Cover                                                                                                      | Title                                                      | Description                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ![coverimg\|200](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_front.jpg) | Monostable Oscillator Circuit Front Side  | This is the finished 555 circuit oscillator. There is a LED indicator and an output to take that signal and use it in other circuits!      | 
+| ![coverimg\|200](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_back.jpg)     | Monostable Oscillator Circuito Back Side     | Te back of this circuit was coated with stain to it wouldn't rust away. | 
 
+{ .block-language-dataview}
