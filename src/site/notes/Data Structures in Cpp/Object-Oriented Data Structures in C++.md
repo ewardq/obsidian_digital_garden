@@ -37,4 +37,4 @@ You can also see the size of a variable with the [[Data Structures in Cpp/C++ Ba
 
 ---
 
-[[Data Structures in Cpp/Stack Memory\|Stack Memory]]
+[[Data Structures in Cpp/C++ Basics/Stack Memory\|Stack Memory]]
