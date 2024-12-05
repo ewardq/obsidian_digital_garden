@@ -74,7 +74,7 @@ Where the frequency range is determined by a equivalent capacitor (**Ceq**), whi
 
 | Cover                                                                                                      | Title                                                      | Description                                                                                                |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![coverimg\|200](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_front.jpg) | Monostable Oscillator Circuit Front Side  | This is the finished 555 circuit oscillator. There is a LED indicator and an output to take that signal and use it in other circuits!      | 
-| ![coverimg\|200](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_back.jpg)     | Monostable Oscillator Circuito Back Side     | Te back of this circuit was coated with stain to it wouldn't rust away. | 
+| ![coverimg\|250](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_front.jpg) | Monostable Oscillator Circuit Front Side  | This is the finished 555 circuit oscillator. There is a LED indicator and an output to take that signal and use it in other circuits!      | 
+| ![coverimg\|150](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Oscilador_back.jpg)     | Monostable Oscillator Circuito Back Side     | Te back of this circuit was coated with stain to it wouldn't rust away. | 
 
 { .block-language-dataview}

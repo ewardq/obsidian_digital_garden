@@ -21,6 +21,6 @@ Finally, the implemented schematic from the first image in this page looks like 
 
 | Cover                                                                                                      | Title                                                      | Description                                                                                                |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![coverimg\|200](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Audio_front.jpg) | Stereo Audio Amplifier Front Side  | This circuit has an audio jack to input sound and output for the speakers that will output the audio.      | 
+| ![coverimg\|350](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Audio_front.jpg) | Stereo Audio Amplifier Front Side  | This circuit has an audio jack to input sound and output for the speakers that will output the audio.      | 
 
 { .block-language-dataview}
