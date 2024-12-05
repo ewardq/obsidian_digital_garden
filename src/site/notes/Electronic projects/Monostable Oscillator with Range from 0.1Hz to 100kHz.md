@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/electronic-projects/monostable-oscillator-with-range-from-0-1-hz-to-100k-hz/","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons"}
+{"dg-publish":true,"permalink":"/electronic-projects/monostable-oscillator-with-range-from-0-1-hz-to-100k-hz/","contentClasses":"cards cards-cols-2 cards-cover cards-cover-no-border cards-title-hide-icons"}
 ---
 
 ---
@@ -60,7 +60,7 @@ $$
 And from there we need a second resistor that has a minimum value so it won't ever reach the value of zero ohms and add a variable resistor so we can go from the minimum frequency and the maximum frequency.
 
 <center>
-![Pasted image 20241205172239.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241205172239.png)
+![](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241205172239.png)
 </center>
 
 From here, we'll calculate each condenser so it matches the frequency range to each resistor.
