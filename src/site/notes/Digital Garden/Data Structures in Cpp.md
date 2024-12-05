@@ -12,18 +12,39 @@ Find more about C++ basics with the topic list down below:
 > [!success] [[Data Structures in Cpp/Writing a C++ Program/Writing a C++ Program\|Writing a C++ Program]]
 >   > Start clicking the link above 
 
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Variables\|Variables]]
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Stack Memory\|Stack Memory]]
+
 > [!abstract] [[Data Structures in Cpp/Writing a C++ Program/C++ classes\|C++ classes]]
->   > [[Data Structures in Cpp/Writing a C++ Program/Encapsulation\|Encapsulation]]
+>   >[!abstract]  [[Data Structures in Cpp/Writing a C++ Program/Encapsulation\|Encapsulation]]
 
 > [!abstract]  [[Data Structures in Cpp/Writing a C++ Program/C++ Header File (.h)\|C++ Header File (.h)]]
 
 > [!abstract] [[Data Structures in Cpp/Writing a C++ Program/C++ Implementation File (.cpp)\|C++ Implementation File (.cpp)]]
 
 > [!abstract] [[Data Structures in Cpp/Writing a C++ Program/C++ standard library (std)\|C++ standard library (std)]]
->   >  [[Data Structures in Cpp/Writing a C++ Program/iostream\|iostream]]
+>   >[!abstract] [[Data Structures in Cpp/Writing a C++ Program/iostream\|iostream]]
 
 > [!abstract] [[Data Structures in Cpp/Writing a C++ Program/C++ Types\|C++ Types]]
->   >  [[Data Structures in Cpp/Writing a C++ Program/User-defined type\|User-defined type]]
+>   >[!abstract] [[Data Structures in Cpp/Writing a C++ Program/User-defined type\|User-defined type]]
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/C - Compiler Process\|C - Compiler Process]]
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Operator Overloading\|Operator Overloading]]
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Address\|Address]]
+
+
+---
+# C Basics
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Storage Classes in C\|Storage Classes in C]]
+>   >[!abstract]  [[Data Structures in Cpp/C++ Basics/static keyword\|static keyword]]
+>   
+>   > [!abstract]  [[Data Structures in Cpp/C++ Basics/extern keyword\|extern keyword]]
+>   
+
 
 ---
 
@@ -34,5 +55,6 @@ But it's not enough to know how to talk the language, it's also necessary to lea
 Learn more about data structures here:
 
 > [!abstract] [[Data Structures in Cpp/Object-Oriented Data Structures in C++\|Object-Oriented Data Structures in C++]]
+>    >[!abstract]  [[Data Structures in Cpp/C++ Basics/sizeof()\|sizeof()]]
 
-
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Arrays\|Arrays]]

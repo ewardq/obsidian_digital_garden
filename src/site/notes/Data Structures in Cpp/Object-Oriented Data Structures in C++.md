@@ -15,7 +15,7 @@ int primeNumber = 7;
 - A location in memory (memory address) -- `0x7fffc59ca388`
 
 ---
-### Let's see an example of a [[Data Structures in Cpp/C++ Basics/variable\|variable]] within a script
+### Let's see an example of a [[Data Structures in Cpp/C++ Basics/Variables\|Data Structures in Cpp/C++ Basics/Variables]] within a script
 
 `cpp-memory/addressOf.cpp`
 ```c++

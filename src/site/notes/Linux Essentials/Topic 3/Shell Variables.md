@@ -3,7 +3,7 @@
 ---
 
 ---
-Shell [[Linux Essentials/Topic 2/Variables\|Variables]] are used to store information and access them later.
+Shell [[Linux Essentials/Topic 2/Variables\|Linux Essentials/Topic 2/Variables]] are used to store information and access them later.
 - To name them we can use alfanumeric characters or underscore `_` but they cannot start with a number.
 - Case sensitive. `$VAR` is no the same as `$var`
 

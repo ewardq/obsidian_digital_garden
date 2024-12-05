@@ -9,7 +9,7 @@
 - [[Linux Essentials/Topic 2/Command Behavior Types\|Command Behavior Types]]
 - [[Linux Essentials/Topic 2/Quoting\|Quoting]]
 ///
-- [[Linux Essentials/Topic 2/Variables\|Variables]]
+- [[Linux Essentials/Topic 2/Variables\|Linux Essentials/Topic 2/Variables]]
 	- [ ] [[Guided exercises 2.1\|Guided exercises 2.1]]
 	- [ ] [[Explorational exercises 2.1\|Explorational exercises 2.1]]
 #### 2.2 Using the Command Line to Get Help
