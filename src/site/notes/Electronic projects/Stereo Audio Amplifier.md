@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/electronic-projects/stereo-audio-amplifier/"}
+{"dg-publish":true,"permalink":"/electronic-projects/stereo-audio-amplifier/","contentClasses":"cards cards-cols-1 cards-cover cards-cover-no-border cards-title-hide-icons"}
 ---
 
 ---
@@ -15,10 +15,12 @@ To implement this operational amplifiers into **two** cannels so we can have a s
 
 ![Pasted image 20241123205403.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241123205403.png)
 
+---
+
 Finally, the implemented schematic from the first image in this page looks like this:
 
-| Front side                                                                                        |
-| ------------------------------------------------------------------------------------------------- |
-| ![coverimg](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Audio_front.jpg) |
+| Cover                                                                                                      | Title                                                      | Description                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ![coverimg\|200](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Audio_front.jpg) | Stereo Audio Amplifier Front Side  | This circuit has an audio jack to input sound and output for the speakers that will output the audio.      | 
 
-
+{ .block-language-dataview}

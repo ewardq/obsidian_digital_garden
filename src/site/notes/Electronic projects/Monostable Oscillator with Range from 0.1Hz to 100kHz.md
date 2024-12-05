@@ -59,20 +59,17 @@ $$ \begin{align*} &R_{a} = 50\Omega
 $$
 And from there we need a second resistor that has a minimum value so it won't ever reach the value of zero ohms and add a variable resistor so we can go from the minimum frequency and the maximum frequency.
 
-<center>
-![](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241205172239.png)
-</center>
+![ResistorB_555.png](/img/user/Electronic%20projects/Reference%20images/ResistorB_555.png)
 
 From here, we'll calculate each condenser so it matches the frequency range to each resistor.
 
 ![Pasted image 20241123202132.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241123202132.png)
-# Here's the schematic
+# Schematic
 
 ![Pasted image 20241123201652.png](/img/user/Electronic%20projects/Reference%20images/Pasted%20image%2020241123201652.png)
 
 Where the frequency range is determined by a equivalent capacitor (**Ceq**), which is connected through a selector jumper.
 
-# Here's the completed PCB
 ---
 
 | Cover                                                                                                      | Title                                                      | Description                                                                                                |
