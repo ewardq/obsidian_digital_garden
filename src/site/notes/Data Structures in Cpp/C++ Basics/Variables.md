@@ -161,4 +161,94 @@ Here, the compiler does indeed make use of the variable `myVariable` because it 
 </div></div>
 
 
+---
+
+# Variable scope
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/data-structures-in-cpp/c-basics/c-c-local-variables/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+---
+
+==Scope:== Within the body of the function. Local variables lose existence once the execution control comes out of the function body.
+
+==Default value:== Unpredictable (garbage value).
+
+==Lifetime:== Till the end of the execution of a function in which a variable is defined.
+
+_Example_
+```c++
+#include <stdio.h>
+
+void myFunc(void){
+	int myVariable;  // Declaration of a local variable
+	return 0;
+}
+
+int main(){
+
+	printf("The variable has the value of %d", myVariable);
+	return 0;
+}
+```
+
+_Output_
+```c++
+main.c: In function ‘myFunc’:
+main.c:13:16: warning: ‘return’ with a value, in function returning void
+   13 |         return 0;
+      |                ^
+main.c:11:6: note: declared here
+   11 | void myFunc(void){
+      |      ^~~~~~
+main.c: In function ‘main’:
+main.c:18:52: error: ‘myVariable’ undeclared (first use in this function)
+   18 |         printf("The variable has the value of %d", myVariable);
+      |                                                    ^~~~~~~~~~
+main.c:18:52: note: each undeclared identifier is reported only once for each function it appears in
+```
+The `main()` function can't access the local variable created in the `myFunc()` function scope.
+
+
+</div></div>
+
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/data-structures-in-cpp/c-basics/c-c-global-variables/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+---
+
+==Scope:== Global variables are visible to all the function of a program. They are everywhere and can be accessed from another file of the project.
+
+==Default value:== All uninitialized global variables will have 0 as a default value.
+
+==Lifetime:== Till the end of the execution of the program.
+
+_Example_
+```c++
+#include <stdio.h>
+
+int myVariable;      // Declaration of a global variable
+
+int main(){
+	myVariable = 540;
+	printf("The variable has the value of %d", myVariable);
+	return 0;
+}
+```
+
+_Output_
+```c++
+The variable has the value of 540
+```
+No error at all!
+
+</div></div>
 
