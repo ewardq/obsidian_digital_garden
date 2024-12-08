@@ -18,3 +18,6 @@
 
 > [!tip] Important
 > 
+
+---
+This information was extracted from the [PROTOCOLS: UART - I2C - SPI - Serial communications #001](https://www.youtube.com/watch?v=IyGwvGzrqp8) YouTube video.
