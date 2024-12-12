@@ -32,3 +32,42 @@ To write data to a pointer the address must be ==dereferenced==
 *address1 = 0x89;   // Dereferencing a pointer to write data
 ```
 This assigns the value <font color="#BF8FFB">0x89</font> to the address being pointed at.
+
+---
+
+_Example:_
+```C++
+#include <iostream>
+
+int main(){
+    // Create an int type variable and initialize it to value 100
+    int variable1 = 100;
+    
+    // Print the address of the above variable
+    std::cout<<"Address of variable1 = "<<&variable1<<std::endl;
+    
+    // Create a pointer variable and store the address of the above variable
+    int* variable1_ptr = &variable1;
+     
+    // Perform read operation on the pointer variable to fetch 1 byte of data from the pointer
+    int read_variable1 = *variable1_ptr;
+     
+    // Print the data obtained from the read operation on the pointer.
+    std::cout<<"Fetch 1 byte of data = "<<read_variable1<<std::endl;
+     
+    // Perform write operation on the pointer to store the value 65
+    *variable1_ptr = 65;
+    
+    // Print the value of the variable defined in step 1
+    std::cout<<"Value of variable = "<<*variable1_ptr<<std::endl;
+    
+    return 0;
+}
+```
+
+_Output:_
+```C++
+Address of variable1 = 0x7ffd2ac75208
+Fetch 1 byte of data = 100
+Value of variable = 65
+```
