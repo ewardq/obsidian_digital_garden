@@ -11,7 +11,7 @@ One compiler may consider the `integer` data type as **2 bytes**, another compil
 
 ---
 
-In the "C" programming language the most commmonly used data types `int` and `long` casue portability issues. This is because the storage size for `int` and `long` type are not defined within the C standard (C90 or C99).
+In the "C" programming language the most commonly used data types `int` and `long` cause portability issues. This is because the storage size for `int` and `long` type are not defined within the C standard (C90 or C99).
 
 The compiler vendors have the choice to define the storage size for the variable depending solely on hardware capabilities of the target platform, with respect to the minimum widths defined by the standard.
 
