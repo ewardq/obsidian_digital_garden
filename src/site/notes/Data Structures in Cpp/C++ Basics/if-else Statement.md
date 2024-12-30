@@ -25,3 +25,7 @@ else{
 	statement_4;
 }
 ```
+
+---
+## Some examples
+
