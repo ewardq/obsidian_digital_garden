@@ -9,4 +9,4 @@ In C there are 5 different ways to take decisions by making use of below decisio
 - [[Data Structures in Cpp/C++ Basics/if-else Statement\|if-else Statement]]
 - [[Data Structures in Cpp/C++ Basics/if-else-if ladder\|if-else-if ladder]]
 - [[Data Structures in Cpp/C++ Basics/Conditional Operator\|Conditional Operator]]
-- [[Switch case Statement\|Switch case Statement]]
+- [[Data Structures in Cpp/C++ Basics/Switch statement\|Switch statement]]
