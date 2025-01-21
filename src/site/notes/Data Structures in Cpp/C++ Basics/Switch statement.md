@@ -28,3 +28,5 @@ switch( expression ){
 		//statement_n;
 }
 ```
+
+![switch_diagram.png](/img/user/Data%20Structures%20in%20Cpp/Reference%20images/switch_diagram.png)

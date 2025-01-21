@@ -22,6 +22,7 @@ if (expression){
 }
 ```
 
+![if_diagram.png](/img/user/Data%20Structures%20in%20Cpp/Reference%20images/if_diagram.png)
 ---
 ## Another form of the if statement
 

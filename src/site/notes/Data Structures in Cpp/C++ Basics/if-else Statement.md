@@ -26,6 +26,8 @@ else{
 }
 ```
 
+![if_else_diagram.png](/img/user/Data%20Structures%20in%20Cpp/Reference%20images/if_else_diagram.png)
+
 ---
 ## Some examples
 

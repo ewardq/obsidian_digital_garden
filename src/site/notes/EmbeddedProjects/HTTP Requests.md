@@ -81,5 +81,5 @@ Connection: Closed
 <!DOCTYPE HTML PUBLIC “-//IETF//DTD HTML 2.0//EN”></code.
 ```
 
-This examples were extracted from [What Is an HTTP Request?](https://kinsta.com/knowledgebase/what-is-an-http-request/)
+These examples were extracted from [What Is an HTTP Request?](https://kinsta.com/knowledgebase/what-is-an-http-request/)
 
