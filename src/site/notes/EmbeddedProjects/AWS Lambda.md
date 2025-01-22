@@ -3,6 +3,21 @@
 ---
 
 ---
+![AWS_lambda.png](/img/user/EmbeddedProjects/Reference%20images/AWS_lambda.png)
+AWS Lambda is a ==serverless computing service== that allows you to ==run code in response to events== without managing services.
+
+It enables us to write ==functions that are triggered by specific events==, such as [[EmbeddedProjects/HTTP Requests\|HTTP Requests]], changes in a database, or incoming data from services.
+
+Lambda **automatically scales in response to the volume of requests**, meaning you only pay for the compute time you use, making it cost-effective and efficient.
+
+- **Event driven**: Lambda functions are triggered by events. For example, in an IoT application, an HTTP POST request containing sensor data can trigger a Lambda function to process that data.
+
+- **Function as a Service**: Each Lambda function contains the code and configuration required to perform a specific task, like storing data in a database or sending alerts.
+
+- **Automatic Scaling**: Lambda automatically scales up to handle increased loads and scales down to zero when no requests are present, making it ideal for fluctuating workloads.
+- **Pay-as-You-Go Pricing**: Pay only the time you use.
+
+---
 ## Benefits of using AWS Lambda in IoT Applications
 
 - ==Scalability==: Lambda can handle high volumes of data, scaling up or down as necessary.
