@@ -32,3 +32,30 @@ Lambda **automatically scales in response to the volume of requests**, meaning y
 - ==Event Source==: Lambda functions are event-driven, meaning they're triggered by an event source. Common event sources include API Gateway for [[EmbeddedProjects/HTTP Requests\|HTTP Requests]], S3 for file uploads, and DynamoDB or IoT Core for data streaming.
 - ==Environment Variables==: Lambda functions can use environment variables for configuration, such as API keys, database connection strings, or other sensitive information.
 - ==Execution Role==: Lambda functions run with permissions granted by an AWS IAM Role. This role determines what the Lambda function can access (e.g. DynamoDB tables, S3 buckets) and ensures security by limiting permissions.
+
+---
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/embedded-projects/using-aws-lambda-for-io-t-data-processing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+---
+
+![AWS_lambda_workflow.png](/img/user/EmbeddedProjects/Reference%20images/AWS_lambda_workflow.png)
+
+1. In our IoT system, AWS Lambda functions serve as the **main processor of incoming data from IoT devices**, such as temperature or humidity readings.
+2. A Lambda function can be triggered by **API Gateway** when a device sends an HTTP POST request with sensor data. The function can:
+	1. Parse the JSON payload from the request.
+	2. Extract the sensor data (e.g., temperature, humidity, timestamp).
+	3. Store the data in DynamoDB for long-term storage and analysis.
+
+> [!Note] Note
+> Another Lambda function can retrieve data when an **HTTP GET request** is made (e.g. /data/latest).  
+> 
+> This function queries DynamoDB for the latest record associated with a device.
+
+
+
+</div></div>
+
