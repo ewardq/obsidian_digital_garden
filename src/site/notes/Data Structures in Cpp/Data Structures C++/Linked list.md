@@ -6,8 +6,19 @@
 A linked list is a sequence of nodes that contain two fields: data (an integer value here as an example) and a link to the next node. The last node is linked to a terminator used to signify the end of the list. [^1]
 
 ![Linked_list.png](/img/user/Data%20Structures%20in%20Cpp/Reference%20images/Linked_list.png)
-### Implementation in C++
 
+---
+## Implementation in C++
+
+Create a Node class where each data (`integer` data) and pointer can be stored:
+```C++
+struct Node {  
+    int data;           // Where data is stored
+    struct Node* next;  // Where the pointer to the next node is stored
+};
+```
+
+And then add the capacity for the node to create a new one regardless of how many there are.
 ```C++
 // Each node in a linked list is a structure. The head node is the first node in the list.
 Node* addNodeToTail(Node* head, int value) {
