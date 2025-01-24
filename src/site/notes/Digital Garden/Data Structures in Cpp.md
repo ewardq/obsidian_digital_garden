@@ -25,11 +25,15 @@ Find more about C++ basics with the topic list down below:
 
 > [!abstract] [[Data Structures in Cpp/Writing a C++ Program/C++ standard library (std)\|C++ standard library (std)]]
 >   >[!abstract] [[Data Structures in Cpp/Writing a C++ Program/iostream\|iostream]]
+>   
+>   >[!abstract] [[Data Structures in Cpp/C++ Basics/stdint\|stdint]]
 
 ---
 ## Elements of a C++ program
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/Code memory\|Code memory]]
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Stack Memory\|Stack Memory]]
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/Variables\|Variables]]
 >   >[!abstract]  [[Data Structures in Cpp/C++ Basics/C-C++ Declaring a variable\|C-C++ Declaring a variable]]
@@ -44,12 +48,22 @@ Find more about C++ basics with the topic list down below:
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/C - Reserved keywords\|C - Reserved keywords]]
 >   >[!abstract] [[Data Structures in Cpp/C++ Basics/extern keyword\|extern keyword]]
+>   
+>   >[!abstract] [[Data Structures in Cpp/C++ Basics/static keyword\|static keyword]]
 
 > [!abstract] [[Data Structures in Cpp/Writing a C++ Program/C++ Types\|C++ Types]]
+> 
+> >[!abstract] [[Data Structures in Cpp/Writing a C++ Program/Primitive type\|Primitive type]]
+> 
 >   >[!abstract] [[Data Structures in Cpp/Writing a C++ Program/User-defined type\|User-defined type]]
 
 > [!abstract] [[Data Structures in Cpp/Writing a C++ Program/C++ classes\|C++ classes]]
 >   >[!abstract]  [[Data Structures in Cpp/Writing a C++ Program/Encapsulation\|Encapsulation]]
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Storage Classes in C\|Storage Classes in C]]
+>   >[!abstract]  [[Data Structures in Cpp/C++ Basics/static keyword\|static keyword]]
+>   
+>   >[!abstract]  [[Data Structures in Cpp/C++ Basics/extern keyword\|extern keyword]]
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/Address\|Address]]
 
@@ -66,15 +80,20 @@ Find more about C++ basics with the topic list down below:
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/Arrays\|Arrays]]
 
-> [!abstract] [[Data Structures in Cpp/C++ Basics/C - Operators\|C - Operators]]
+> [!abstract] [[Data Structures in Cpp/C++ Basics/Type Casting\|Type Casting]]
+
+> [!abstract] [[Data Structures in Cpp/C++ Basics/True and False in C\|True and False in C]]
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/C - Operators\|C - Operators]]
+> >[!abstract]  [[Data Structures in Cpp/C++ Basics/Relational Operators in C\|Relational Operators in C]]
+> 
 >   >[!abstract]  [[Data Structures in Cpp/C++ Basics/Conditional Operator\|Conditional Operator]]
 >   
 >   > [!abstract]  [[Data Structures in Cpp/C++ Basics/Bitwise Operators\|Bitwise Operators]]
 >   
 >   > [!abstract]  [[Data Structures in Cpp/C++ Basics/Operator Overloading\|Operator Overloading]]
 >   
+> > [!abstract]  [[Data Structures in Cpp/C++ Basics/Unary operators with pointer variables\|Unary operators with pointer variables]]
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/Decision taking statements  in C\|Decision taking statements  in C]]
 >   >[!abstract]  [[Data Structures in Cpp/C++ Basics/if Statement\|if Statement]]
@@ -88,15 +107,6 @@ Find more about C++ basics with the topic list down below:
 >   >[!abstract] [[Data Structures in Cpp/C++ Basics/Switch statement\|Switch statement]]
 
 ---
-# C Basics
-
-> [!abstract] [[Data Structures in Cpp/C++ Basics/Storage Classes in C\|Storage Classes in C]]
->   >[!abstract]  [[Data Structures in Cpp/C++ Basics/static keyword\|static keyword]]
->   
->   > [!abstract]  [[Data Structures in Cpp/C++ Basics/extern keyword\|extern keyword]]
->   
-
-
 ---
 
 # Data Structures
@@ -109,3 +119,7 @@ Learn more about data structures here:
 >    >[!abstract]  [[Data Structures in Cpp/C++ Basics/sizeof()\|sizeof()]]
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/Arrays\|Arrays]]
+
+> [!abstract] [[Data Structures in Cpp/Data Structures C++/Linked list\|Linked list]]
+
+> [!abstract] [[Data Structures in Cpp/Data Structures C++/Hash Map\|Hash Map]]
