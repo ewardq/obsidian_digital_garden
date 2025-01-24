@@ -115,7 +115,7 @@ But it's not enough to know how to talk the language, it's also necessary to lea
 
 Learn more about data structures here:
 
-> [!abstract] [[Object-Oriented Data Structures in C++\|Object-Oriented Data Structures in C++]]
+> [!abstract] [[Data Structures in Cpp/Data Structures C++/Object-Oriented Data Structures in C++\|Object-Oriented Data Structures in C++]]
 >    >[!abstract]  [[Data Structures in Cpp/C++ Basics/sizeof()\|sizeof()]]
 
 > [!abstract] [[Data Structures in Cpp/C++ Basics/Arrays\|Arrays]]
