@@ -30,7 +30,6 @@ This is an ongoing project to document and store my personal projects and notes.
 
 { .block-language-dataview}
 
-![IoT_with_STM32.png](/img/user/Digital%20Garden/Icons-and-images/IoT_with_STM32.png)
 ## Electronic projects
 
 Here you'll find some of the PCB projects I've done this year. Documentation in progress!!
