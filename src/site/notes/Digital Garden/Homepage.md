@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","title":"Eduardo Piña","metatags":{"description":"Eduardo's Digital Garden","og:description":"Eduardo's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","title":"Eduardo Piña","metatags":{"description":"Eduardo's Digital Garden","og:description":"Eduardo's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"]}
 ---
 
 
@@ -21,7 +21,16 @@ This is an ongoing project to document and store my personal projects and notes.
 
 { .block-language-dataview}
 
-### Electronic projects
+## Embedded software projects
+
+| Cover                                                                                                     | Title                                                                       | Description                                                                                                                                                                                                                                                      | Links | Tags                                                 |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------- |
+| ![coverimg\|100](https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/IoT_with_STM32.png) | [[Digital Garden/Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda\|Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda]] | In this IoT system, the AWS Lambda functions serve as the main processor of incoming data from IoT devices, such as temperature or humidity readings. An API Gateway Lambda function can be triggered when a device sends an HTTP POST request with sensor data. |       | #STM32 #ESP32 #AWS #HTTP #DynamoDB #EmbeddedSoftware |
+
+
+{ .block-language-dataview}
+
+## Electronic projects
 
 Here you'll find some of the PCB projects I've done this year. Documentation in progress!!
 
