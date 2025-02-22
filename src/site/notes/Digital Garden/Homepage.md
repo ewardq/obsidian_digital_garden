@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","title":"Eduardo Piña","metatags":{"description":"Eduardo's Digital Garden","og:description":"Eduardo's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","title":"Eduardo Piña","metatags":{"description":"Eduardo's Digital Garden","og:description":"Eduardo's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"]}
 ---
 
 
@@ -30,6 +30,7 @@ This is an ongoing project to document and store my personal projects and notes.
 
 { .block-language-dataview}
 
+![IoT_with_STM32.png](/img/user/Digital%20Garden/Icons-and-images/IoT_with_STM32.png)
 ## Electronic projects
 
 Here you'll find some of the PCB projects I've done this year. Documentation in progress!!
