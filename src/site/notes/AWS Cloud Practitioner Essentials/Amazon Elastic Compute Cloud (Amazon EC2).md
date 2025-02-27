@@ -35,3 +35,20 @@ With an Amazon EC2 instance you can use a virtual server to run applications in 
 
 </div></div>
 
+
+---
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/aws-cloud-practitioner-essentials/amazon-ec-2-pricing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+---
+
+- ==On demand instances== are ideal for short-term, irregular workloads that cannot be interrupted. The instances run  continuously until you stop them, and you pay for only the compute time you use.
+
+- ==Reserved instances== are a billing discount applied to the use of On-demand instances in your account. There are two available types of Reserved instances:
+	- Standard Reserved Instances
+	- Convertible Reserved Instances
+
+</div></div>
