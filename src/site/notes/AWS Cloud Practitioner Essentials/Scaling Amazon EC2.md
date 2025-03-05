@@ -23,7 +23,7 @@ When you create an Auto Scaling group, you can set the minimum number of Amazon 
 
 Next, you can set the ==desired capacity== at two Amazon EC2 instances even though your application needs a minimum of a single Amazon EC2 instance to run.
 
-The third configuration that you can set in an Auto Scaling group is the ==maximum capacity.== For example, you might configure the Auto Scaling group to scale out in response to increased demand, but only to a maximum of four Amazon EC2 instances.
+The third configuration that you can set in an Auto Scaling group is the ==maximum capacity.== For example, you might configure the Auto Scaling group to scale out in response to increased demand, but only to a maximum of four Amazon EC2 instances
 
 ---
 
