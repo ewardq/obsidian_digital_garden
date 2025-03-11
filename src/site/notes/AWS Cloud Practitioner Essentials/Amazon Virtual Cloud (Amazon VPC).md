@@ -22,3 +22,15 @@ A virtual private gateway enables you to establish a virtual private network (VP
 The private connection that AWS Direct Connect provides helps you to reduce network costs and increase the amount of bandwidth that can travel through your network.
 
 ![AWSDirectConnect.png](/img/user/AWS%20Cloud%20Practitioner%20Essentials/Reference%20images/AWSDirectConnect.png)
+
+---
+# Security groups and Network Access Control List
+
+With both network ACLs and security groups, you can configure custom rules for the traffic in your VPC.
+
+![VPC_packet_track.png](/img/user/AWS%20Cloud%20Practitioner%20Essentials/Reference%20images/VPC_packet_track.png)
+
+A packet travels over the internet from a client, to the internet gateway and into the VPC. Then the pack goes through the [[AWS Cloud Practitioner Essentials/Network Access Control List (ACL)\|Network Access Control List (ACL)]] and accesses the public [[Subnets \| subnet]], where two EC2 instances are located within separate [[AWS Cloud Practitioner Essentials/Security Groups\|Security Groups]].
+
+
+
