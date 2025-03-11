@@ -10,3 +10,9 @@ By default, your account’s default network ACL allows all inbound and outbound
 - For custom network ACLs, all inbound and outbound traffic is denied until you add rules to specify which traffic to allow. 
 
 - Additionally, all network ACLs have an explicit deny rule. This rule ensures that if a packet doesn’t match any of the other rules on the list, the packet is denied.
+
+## Stateless packet filtering
+
+Network ACLs perform **stateless** packet filtering. They remember nothing and check packets that cross the subnet border each way: inbound and outbound.
+
+![Stateless_filtering.png](/img/user/AWS%20Cloud%20Practitioner%20Essentials/Reference%20images/Stateless_filtering.png)
