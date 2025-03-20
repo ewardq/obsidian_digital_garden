@@ -19,3 +19,9 @@ The "Check My Solution" button runs the script `/home/admin/agent/check.sh`, wh
 
 ---
 ### Notes and solution:
+
+1. Change the permissions of ALL of the files in `shared` folder
+2. Create a new group
+3. Add users to newly created group
+4. Change group owner of ALL folder to newly created group
+5. Change permissions once again
