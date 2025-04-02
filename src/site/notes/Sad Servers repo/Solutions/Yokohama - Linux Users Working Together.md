@@ -9,7 +9,7 @@
   
 First, they have asked you as the sysadmin, to make it so each of these four users can read the project files of the other users in the _/home/admin/shared_ directory, but none of them can modify a file that belongs to another user. Users should be able modify their own files.  
   
-Secondly, they have asked you to modify the file shared/ALL so that any of these four users can write more content to it, but previous (existing) content cannot be altered.
+Secondly, they have asked you to modify the file shared/ALL so that any of these four users can write more content to it, but previous (existing) content cannot be altered
 
 **Root (sudo) Access:** True
 
