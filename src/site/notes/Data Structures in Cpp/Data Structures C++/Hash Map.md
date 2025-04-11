@@ -53,9 +53,9 @@ int main(){
 
 Let's see an example where the hash map is traditionally introduced:
 
-The most straightforward approach involves using a nested loop where the time complexity is O(n^2)
+The most straightforward approach involves using a nested loop where the time complexity is O(n^2).
   
-But we can do better, if we make use of a hash map, we can break down this solution into a O(n)
+But we can do better, if we make use of a hash map, we can break down this solution into a O(n).
 
 ```C++
 #include <iostream>
