@@ -5,7 +5,7 @@
 ---
 ![DynamoDB.png](/img/user/EmbeddedProjects/Reference%20images/DynamoDB.png)
 
-Amazon **DynamoDB** is a NoSQL database service designed to provide low-latency and scalable storage for large volumes of data.
+Amazon **DynamoDB** is a NoSQL database service designed to provide low-latency and scalable storage for large volumes of data
 
 In IoT applications, where devices send frequent data updates, DynamoDB is ideal due to its **speed**, **flexibility**, and ability to handle high-throughput workloads.
 
