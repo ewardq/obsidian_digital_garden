@@ -40,6 +40,9 @@ Here I'm archiving my solutions to the [SadServers - Linux & DevOps Troubleshoot
 [[Sad Servers repo/Solutions/Geneva - Renew an SSL Certificate\|Geneva - Renew an SSL Certificate]]
 - #bash #openssl #nginx #systemctl
 
+[[Sad Servers repo/Solutions/Yokohama - Linux Users Working Together\|Yokohama - Linux Users Working Together]]
+- #bash
+
 ---
 
 [[Sad Servers repo/Solutions/Tokyo - Can't serve web file\|Tokyo - Can't serve web file]]

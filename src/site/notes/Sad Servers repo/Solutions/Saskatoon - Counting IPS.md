@@ -57,5 +57,4 @@ grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" /home/admin/access.log | sort | uniq 
 
 As we can see, the most recurring IP address is ___66.249.73.135___ with 482 requests.
 
-Special thanks to [this ]([Extracting IP address from logfile (youtube.com)](https://www.youtube.com/watch?v=WDjbMucvEmk)) tutorial.
 
