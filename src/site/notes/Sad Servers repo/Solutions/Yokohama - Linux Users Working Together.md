@@ -15,7 +15,7 @@ Secondly, they have asked you to modify the file shared/ALL so that any of these
 
 **Test:** All users (abe, betty, carlos, debora) can write to their own files. None of them can write to another user's file.  
 All users can add more content (append)) to the shared/project_ALL file but none can change its current content.  
-The "Check My Solution" button runs the script `/home/admin/agent/check.sh`, which you can see and execute.
+The "Check My Solution" button runs the script `/home/admin/agent/check.sh`, which you can see and execute
 
 ---
 ### Notes and solution:
